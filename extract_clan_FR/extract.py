@@ -26,6 +26,7 @@ if not os.path.exists(data_path):
     exit(code=-1)
 most_recent_file = glob.glob(f'{data_path}/*_french_clan_list.json')
 most_recent_file.sort()
+most_recent_file.reverse()
 most_recent_file = most_recent_file[0]
 if os.path.isfile(most_recent_file):
     print(f"Opening file {most_recent_file}")
@@ -40,7 +41,6 @@ if not os.path.exists(output_path):
     print("Folder data not found, dying program")
     exit(code=-1)
 most_recent_file = glob.glob(f'{output_path}/*_removed_clan.json')
-most_recent_file.sort()
 for rfile in most_recent_file:
     if os.path.isfile(rfile):
         print(f"Opening file {rfile}")
@@ -118,7 +118,7 @@ current_date_time = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
 
 print(f"Added {len(extract_clean)-len(removed_clan)} new clans ")
 print(f"Found {len(clansFR)} total clans ")
-print(f"Found {len(removed_clan)} invalid clans")
+print(f"Added {len(removed_clan)} invalid clans")
 
 print("=== Dumping data ===")
 print("Dumping correct data with all available clans")
