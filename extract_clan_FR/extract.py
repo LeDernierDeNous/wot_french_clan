@@ -10,7 +10,7 @@ output_path = "./extract_clan_FR"
 
 clansFR = {}
 extract = []
-
+old_removed_clan = []
 
 ### Extract from txt src file
 input_file_path = f"{input_path}/src.txt"
@@ -34,6 +34,22 @@ if os.path.isfile(most_recent_file):
 else :
     print("No json file found, ending program") 
     exit(code=-1)
+
+### Extract data from all *_removed_clan.json file in folder output_path
+if not os.path.exists(output_path):
+    print("Folder data not found, dying program")
+    exit(code=-1)
+most_recent_file = glob.glob(f'{output_path}/*_removed_clan.json')
+most_recent_file.sort()
+for rfile in most_recent_file:
+    if os.path.isfile(rfile):
+        print(f"Opening file {rfile}")
+        json_file = open(rfile)
+        for item_old_removed_clan in json.load(json_file):
+            old_removed_clan.append(item_old_removed_clan)
+    else :
+        print(f"An error occured, invalid path to json file {rfile}")
+old_removed_clan.sort()
 
 ### Extracting data from input file
 print("=== Extracting data from file ===")
@@ -59,7 +75,7 @@ print(f"Found {len(known_clans)} already repertoried clans")
 
 extract_clean = []
 for clan in extract:
-    if clan not in known_clans:
+    if clan not in known_clans and clan not in old_removed_clan:
         extract_clean.append(clan)
 extract = extract_clean
 print(f"Found {len(extract_clean)} new clans in file")
@@ -100,6 +116,7 @@ for clan in extract:
 ### Dumping data in files
 current_date_time = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
 
+print(f"Added {len(extract_clean)-len(removed_clan)} new clans ")
 print(f"Found {len(clansFR)} total clans ")
 print(f"Found {len(removed_clan)} invalid clans")
 
@@ -108,6 +125,7 @@ print("Dumping correct data with all available clans")
 with open(f"{data_path}/{current_date_time}_french_clan_list.json", "w") as outfile:
     outfile.write(json.dumps(clansFR, indent=4))
     
+output_removed = list(set(removed_clan+old_removed_clan))
 print("Dumping data for unavailable clans")
 with open(f"{output_path}/{current_date_time}_removed_clan.json", "w") as outfile:
-    outfile.write(json.dumps(removed_clan, indent=4))
+    outfile.write(json.dumps(output_removed, indent=4))

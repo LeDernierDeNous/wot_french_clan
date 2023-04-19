@@ -2502,5 +2502,509 @@
     "500267107": {
         "clan_tag": "9LDD",
         "clan_name": "La 9 \u00e8me L\u00e9gion Des Dragons"
+    },
+    "500048902": {
+        "clan_tag": "-50-",
+        "clan_name": "TANKUL"
+    },
+    "500049727": {
+        "clan_tag": "-CSR-",
+        "clan_name": "CLAN SPECIAL RUSH LECOMBATIF"
+    },
+    "500160095": {
+        "clan_tag": "-CTU-",
+        "clan_name": "Cobra Tank Unit"
+    },
+    "500010092": {
+        "clan_tag": "-FTS-",
+        "clan_name": "French Tigers"
+    },
+    "500187018": {
+        "clan_tag": "-GENT",
+        "clan_name": "GENTLEMAN'S"
+    },
+    "500054481": {
+        "clan_tag": "-ISD-",
+        "clan_name": "-Iron Shield Division-"
+    },
+    "500221625": {
+        "clan_tag": "-L5D-",
+        "clan_name": "Les Scorpions du D\u00e9sert"
+    },
+    "500193311": {
+        "clan_tag": "-LBD-",
+        "clan_name": "Les Blind\u00e9s D\u00e9glingu\u00e9s"
+    },
+    "500167592": {
+        "clan_tag": "-MAR-",
+        "clan_name": "Leclerc Division Blind\u00e9e"
+    },
+    "500030165": {
+        "clan_tag": "-RCC-",
+        "clan_name": "503 \u00e8me R\u00e9giment de Chars de Combat"
+    },
+    "500023415": {
+        "clan_tag": "00X00",
+        "clan_name": "502 eme FFI"
+    },
+    "500052520": {
+        "clan_tag": "1REC",
+        "clan_name": "1er REC"
+    },
+    "500149377": {
+        "clan_tag": "2GAUL",
+        "clan_name": "Les Seigneur de la Guerre"
+    },
+    "500022767": {
+        "clan_tag": "2GF",
+        "clan_name": "Les Grandes Gueules Fran\u00e7aises"
+    },
+    "500063376": {
+        "clan_tag": "3RDF",
+        "clan_name": "3\u00e8me R\u00e9giment de Dragons de France"
+    },
+    "500069754": {
+        "clan_tag": "3_RD",
+        "clan_name": "3 \u00e8me R\u00e9giment de Dragons"
+    },
+    "500071880": {
+        "clan_tag": "5ERD",
+        "clan_name": "Le 5e r\u00e9giment de dragons"
+    },
+    "500062790": {
+        "clan_tag": "6-4-2",
+        "clan_name": "Brigade Blind\u00e9es Motoris\u00e9es"
+    },
+    "500035033": {
+        "clan_tag": "6-BLB",
+        "clan_name": "6e Brigade L\u00e9g\u00e8re Blind\u00e9e Fran\u00e7aise"
+    },
+    "500029346": {
+        "clan_tag": "A-F-T",
+        "clan_name": "association francaise des tankistes"
+    },
+    "500008205": {
+        "clan_tag": "A-T",
+        "clan_name": "Army-Terror"
+    },
+    "500017178": {
+        "clan_tag": "ABC",
+        "clan_name": "Arme blind\u00e9e Cavalerie"
+    },
+    "500071757": {
+        "clan_tag": "ACDC-",
+        "clan_name": "[ACDC-34] Assaut. Courage. Destruction. Combat"
+    },
+    "500145263": {
+        "clan_tag": "AK_SD",
+        "clan_name": "AnnoracK SquaD"
+    },
+    "500180090": {
+        "clan_tag": "APER0",
+        "clan_name": "Arm\u00e9e de Purs Engins Roulants Onduleux"
+    },
+    "500073076": {
+        "clan_tag": "ARAC",
+        "clan_name": "arachnide"
+    },
+    "500180388": {
+        "clan_tag": "ARC-",
+        "clan_name": "Arctic Wolves"
+    },
+    "500190672": {
+        "clan_tag": "AT-FE",
+        "clan_name": "Attaquants de fer fran\u00e7ais"
+    },
+    "500159090": {
+        "clan_tag": "ATX37",
+        "clan_name": "Agence Tours X"
+    },
+    "500188154": {
+        "clan_tag": "AWFR",
+        "clan_name": "ALLIANCE WOT FR"
+    },
+    "500173343": {
+        "clan_tag": "B0OB5",
+        "clan_name": "Bande 0bstin\u00e9ment Optimiste Bougrement 5ympathique"
+    },
+    "500029750": {
+        "clan_tag": "CL-1",
+        "clan_name": "Les chars l\u00e9gendaire"
+    },
+    "500055783": {
+        "clan_tag": "COLT",
+        "clan_name": "CoolTeam"
+    },
+    "500135070": {
+        "clan_tag": "COUQ",
+        "clan_name": "LaMarmaille"
+    },
+    "500183619": {
+        "clan_tag": "CR0A",
+        "clan_name": "CORBAC"
+    },
+    "500068040": {
+        "clan_tag": "D-B-A",
+        "clan_name": "La Division Blind\u00e9e des As"
+    },
+    "500189061": {
+        "clan_tag": "D-GS",
+        "clan_name": "Dragoon Guards"
+    },
+    "500204407": {
+        "clan_tag": "D7C",
+        "clan_name": "Les Dieux du 7\u00e8me Ciel"
+    },
+    "500058997": {
+        "clan_tag": "DODUS",
+        "clan_name": "F\u00e9d\u00e9ration des volailles en col\u00e8res"
+    },
+    "500182034": {
+        "clan_tag": "DR-TE",
+        "clan_name": "La-DreamTeam"
+    },
+    "500068156": {
+        "clan_tag": "E-NS",
+        "clan_name": "Entre_Nous"
+    },
+    "500157501": {
+        "clan_tag": "E-O-S",
+        "clan_name": "Elite Of Soldiers"
+    },
+    "500023820": {
+        "clan_tag": "EGZ",
+        "clan_name": "Extrem Gamer Z"
+    },
+    "500055509": {
+        "clan_tag": "ENDS",
+        "clan_name": "FR1ENDS"
+    },
+    "500010660": {
+        "clan_tag": "ENF",
+        "clan_name": "Escadron Noir Fran\u00e7ais"
+    },
+    "500071679": {
+        "clan_tag": "F-A-B",
+        "clan_name": "Faction Arm\u00e9e Blind\u00e9e"
+    },
+    "500191178": {
+        "clan_tag": "F-FT",
+        "clan_name": "F\u00e9d\u00e9ration Fran\u00e7aise Des Tankistes"
+    },
+    "500161730": {
+        "clan_tag": "FAST_",
+        "clan_name": "Les R\u00e9sistant"
+    },
+    "500035272": {
+        "clan_tag": "FAS_A",
+        "clan_name": "French Armored Squad Academy"
+    },
+    "500018351": {
+        "clan_tag": "FBF",
+        "clan_name": "Front des Bretons Fou"
+    },
+    "500056885": {
+        "clan_tag": "FCM",
+        "clan_name": "F\u00e9d\u00e9ration des Blind\u00e9es Fran\u00e7ais"
+    },
+    "500157478": {
+        "clan_tag": "FD2F",
+        "clan_name": "Fr\u00e8re D'arme 2 France"
+    },
+    "500010184": {
+        "clan_tag": "FFC",
+        "clan_name": "Force Fran\u00e7aise Cooperation"
+    },
+    "500070762": {
+        "clan_tag": "FFDC",
+        "clan_name": "F\u00e9d\u00e9ration Francaise Des Chars"
+    },
+    "500155229": {
+        "clan_tag": "FIRE1",
+        "clan_name": "Fire-one"
+    },
+    "500002762": {
+        "clan_tag": "FLING",
+        "clan_name": "Tontons Flingueurs"
+    },
+    "500065769": {
+        "clan_tag": "FOXYS",
+        "clan_name": "Frenchie Foxys"
+    },
+    "500040149": {
+        "clan_tag": "FPZ",
+        "clan_name": "Flying Panzers"
+    },
+    "500032830": {
+        "clan_tag": "FRA-C",
+        "clan_name": "Fran\u00e7ais R\u00e9giment Arm\u00e9e - Char"
+    },
+    "500136748": {
+        "clan_tag": "FRDOG",
+        "clan_name": "FRDOG"
+    },
+    "500026040": {
+        "clan_tag": "FRW0T",
+        "clan_name": "Fran\u00e7ais de world of tanks"
+    },
+    "500047829": {
+        "clan_tag": "G-H-Q",
+        "clan_name": "the death croques"
+    },
+    "500069402": {
+        "clan_tag": "GENIE",
+        "clan_name": "We are Genies in Tanks ... Watch out ...!!"
+    },
+    "500170067": {
+        "clan_tag": "GIBF",
+        "clan_name": "Groupe d'Intervention Blind\u00e9 Fran\u00e7ais"
+    },
+    "500030459": {
+        "clan_tag": "GIFF",
+        "clan_name": "groupe intervention force fran\u00e7aise"
+    },
+    "500157469": {
+        "clan_tag": "GRIFF",
+        "clan_name": "GRIFFONS"
+    },
+    "500065862": {
+        "clan_tag": "HYENE",
+        "clan_name": "Les Chars Rognards"
+    },
+    "500164254": {
+        "clan_tag": "IDORI",
+        "clan_name": "IDORI"
+    },
+    "500037465": {
+        "clan_tag": "I_G_O",
+        "clan_name": "Insurgency-Offensive-Fr"
+    },
+    "500065083": {
+        "clan_tag": "L-C-T",
+        "clan_name": "Les Chevaliers Tankistes"
+    },
+    "500159588": {
+        "clan_tag": "L-GT",
+        "clan_name": "Les GROSTUBES"
+    },
+    "500188905": {
+        "clan_tag": "L-S-V",
+        "clan_name": "Les Sans Visages"
+    },
+    "500017729": {
+        "clan_tag": "LADBF",
+        "clan_name": "La Division Blind\u00e9e Fran\u00e7aise"
+    },
+    "500232037": {
+        "clan_tag": "LBDP",
+        "clan_name": "Le Bataillon du Phoenix"
+    },
+    "500051306": {
+        "clan_tag": "LBE",
+        "clan_name": "L\u00e9gion Blind\u00e9e d'Elite"
+    },
+    "500218547": {
+        "clan_tag": "LCDF1",
+        "clan_name": "Le cercle de feu"
+    },
+    "500065825": {
+        "clan_tag": "LCTM",
+        "clan_name": "les choco tanks milka"
+    },
+    "500148982": {
+        "clan_tag": "LDDLM",
+        "clan_name": "LES DIVISION DE LA MORT"
+    },
+    "500189527": {
+        "clan_tag": "LEGS_",
+        "clan_name": "... Les \u00e9gar\u00e9s ..."
+    },
+    "500055682": {
+        "clan_tag": "LERN",
+        "clan_name": "L'excellence R\u00e9gion Nord"
+    },
+    "500147410": {
+        "clan_tag": "LFDLC",
+        "clan_name": "Les Freres De La Cote"
+    },
+    "500066723": {
+        "clan_tag": "LFFL",
+        "clan_name": "La Force Fran\u00e7aise Libre"
+    },
+    "500019139": {
+        "clan_tag": "LIB",
+        "clan_name": "LIBERTA"
+    },
+    "500153782": {
+        "clan_tag": "LRDV",
+        "clan_name": "La Rage De Vaincre"
+    },
+    "500198867": {
+        "clan_tag": "LRTA",
+        "clan_name": "Les-Rapaces-Taga"
+    },
+    "500155592": {
+        "clan_tag": "LSDA1",
+        "clan_name": "LES SURVIVANTS DE L'ANKOU"
+    },
+    "500075921": {
+        "clan_tag": "LTD-M",
+        "clan_name": "La taverne des mercenaire"
+    },
+    "500136626": {
+        "clan_tag": "LTI",
+        "clan_name": "Les Tankistes Inconnus"
+    },
+    "500190009": {
+        "clan_tag": "LTIE",
+        "clan_name": "les tigres enrag\u00e9s"
+    },
+    "500025561": {
+        "clan_tag": "M-O-F",
+        "clan_name": "metal on fire"
+    },
+    "500028812": {
+        "clan_tag": "MFD",
+        "clan_name": "Motorised French Division"
+    },
+    "500074015": {
+        "clan_tag": "MIGAM",
+        "clan_name": "mister gamer"
+    },
+    "500204632": {
+        "clan_tag": "M_AT",
+        "clan_name": "Masters de l'Army Terror"
+    },
+    "500148919": {
+        "clan_tag": "N0RG",
+        "clan_name": "No Regrets"
+    },
+    "500052662": {
+        "clan_tag": "NBFR",
+        "clan_name": "NAPOL\u00c9ON BONAPARTE"
+    },
+    "500159979": {
+        "clan_tag": "NERZH",
+        "clan_name": "breizh atao"
+    },
+    "500012392": {
+        "clan_tag": "P-A",
+        "clan_name": "Phoenix Angels"
+    },
+    "500027810": {
+        "clan_tag": "PGDLP",
+        "clan_name": "les 20 gardien de la paix"
+    },
+    "500062001": {
+        "clan_tag": "RASW",
+        "clan_name": "Rush And Stealth"
+    },
+    "500072798": {
+        "clan_tag": "RNG__",
+        "clan_name": "LES RENEGATS"
+    },
+    "500162943": {
+        "clan_tag": "S-2F",
+        "clan_name": "Smile For Fun"
+    },
+    "500038630": {
+        "clan_tag": "SD-FR",
+        "clan_name": "Les Supers Dupont"
+    },
+    "500144501": {
+        "clan_tag": "SP-FR",
+        "clan_name": "SPARTACUS"
+    },
+    "500179118": {
+        "clan_tag": "STLTK",
+        "clan_name": "STEEL TRACKER"
+    },
+    "500075181": {
+        "clan_tag": "SWIP3",
+        "clan_name": "La Releve"
+    },
+    "500055227": {
+        "clan_tag": "S_Q_D",
+        "clan_name": "_SuicideSquad_"
+    },
+    "500075914": {
+        "clan_tag": "TFDFR",
+        "clan_name": "The French Devil's"
+    },
+    "500067665": {
+        "clan_tag": "TKP",
+        "clan_name": "Tankiste Pr\u00e9dator"
+    },
+    "500069219": {
+        "clan_tag": "TOXYC",
+        "clan_name": "TOXYC CAT"
+    },
+    "500166399": {
+        "clan_tag": "TR9",
+        "clan_name": "{ TEAM ROCKET }"
+    },
+    "500185838": {
+        "clan_tag": "TUBAE",
+        "clan_name": "TheTankTrumpet"
+    },
+    "500070120": {
+        "clan_tag": "TUSK",
+        "clan_name": "Les MORSES"
+    },
+    "500197528": {
+        "clan_tag": "TXAFN",
+        "clan_name": "T10 Are For Noobs"
+    },
+    "500161162": {
+        "clan_tag": "UFFS",
+        "clan_name": "Unicum French Furious Snipers"
+    },
+    "500055209": {
+        "clan_tag": "UT-FR",
+        "clan_name": "Ultimate Team Fran\u00e7aise"
+    },
+    "500031667": {
+        "clan_tag": "VAE-V",
+        "clan_name": "Vae Victis"
+    },
+    "500058806": {
+        "clan_tag": "VTSC",
+        "clan_name": "V\u00e9hicules Tract\u00e9s Sur Chenilles"
+    },
+    "500064475": {
+        "clan_tag": "VV-FR",
+        "clan_name": "Vae Victis FR"
+    },
+    "500135102": {
+        "clan_tag": "WFOX",
+        "clan_name": "Les WarFox"
+    },
+    "500045720": {
+        "clan_tag": "WSFR",
+        "clan_name": "WarriorsSheeps {FR}"
+    },
+    "500050063": {
+        "clan_tag": "YAUTE",
+        "clan_name": "La Yaute"
+    },
+    "500022008": {
+        "clan_tag": "_FC_",
+        "clan_name": "Freres de combat"
+    },
+    "500136693": {
+        "clan_tag": "_KENS",
+        "clan_name": "Les re-survivants de l'Enfer"
+    },
+    "500055817": {
+        "clan_tag": "_LTV_",
+        "clan_name": "Les Tankistes Vosgiens"
+    },
+    "500160664": {
+        "clan_tag": "_LVGF",
+        "clan_name": "La Vieille Garde Fran\u00e7aise"
+    },
+    "500067848": {
+        "clan_tag": "_TDT_",
+        "clan_name": "The Dark Triad"
     }
 }
