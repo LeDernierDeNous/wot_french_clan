@@ -116,6 +116,7 @@ for clan in extract:
 ### Dumping data in files
 current_date_time = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
 
+print("=== Stats from data ===")
 print(f"Added {len(extract_clean)-len(removed_clan)} new clans ")
 print(f"Found {len(clansFR)} total clans ")
 print(f"Added {len(removed_clan)} invalid clans")
