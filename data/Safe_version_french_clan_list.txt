@@ -1,0 +1,4376 @@
+ID: 500075612
+Clan Tag: --C_N
+Clan Name: ** Cosa ** Nostra **
+
+ID: 500156645
+Clan Tag: --HGS
+Clan Name: La Horde des Grognards Sauvages
+
+ID: 500165862
+Clan Tag: -2DB-
+Clan Name: 2 eme Division Blindée LECLERC
+
+ID: 500190829
+Clan Tag: -3DB-
+Clan Name: III Division Blindée
+
+ID: 500002428
+Clan Tag: -5O1-
+Clan Name: 501ème FFI
+
+ID: 500075006
+Clan Tag: -74-
+Clan Name: Les Haut Savoyard
+
+ID: 500136533
+Clan Tag: -76-
+Clan Name: Ghost_69
+
+ID: 500141502
+Clan Tag: -A-N-
+Clan Name: alliance niçoise
+
+ID: 500195032
+Clan Tag: -BLX-
+Clan Name: LE TERRIER
+
+ID: 500022755
+Clan Tag: -B_S-
+Clan Name: --BLOCUS--
+
+ID: 500053379
+Clan Tag: -CDC-
+Clan Name: Cri Du Canon
+
+ID: 500025088
+Clan Tag: -CDG-
+Clan Name: Les Chiens de Guerre
+
+ID: 500183844
+Clan Tag: -CFI-
+Clan Name: .Compagnie Française Impériale.
+
+ID: 500066958
+Clan Tag: -CGT-
+Clan Name: Confrérie Générale des Tankistes
+
+ID: 500028311
+Clan Tag: -CVR-
+Clan Name: CLAN DES VIEUX RALEURS 2.0
+
+ID: 500034926
+Clan Tag: -DLT-
+Clan Name: Défouraillez Les Tous !!
+
+ID: 500030924
+Clan Tag: -DS1-
+Clan Name: Daemons Skulls
+
+ID: 500073288
+Clan Tag: -FADA
+Clan Name: L€S F@D@S
+
+ID: 500148728
+Clan Tag: -FBA1
+Clan Name: French Brother Academy
+
+ID: 500036190
+Clan Tag: -FBP-
+Clan Name: French Bloody Panthers
+
+ID: 500027780
+Clan Tag: -FFS-
+Clan Name: Fédération FR des Spartans
+
+ID: 500033103
+Clan Tag: -FR--
+Clan Name: France Tanker
+
+ID: 500050941
+Clan Tag: -FRAN
+Clan Name: le clan francais
+
+ID: 500010887
+Clan Tag: -FSL
+Clan Name: FRENCH STEEL LEGION
+
+ID: 500020214
+Clan Tag: -GEEK
+Clan Name: l'Élite des Geeks Français
+
+ID: 500004312
+Clan Tag: -LA-
+Clan Name: LEGIO AUXILIA
+
+ID: 500054537
+Clan Tag: -LAM-
+Clan Name: La-Meute
+
+ID: 500060430
+Clan Tag: -LCDC
+Clan Name: Le Clan Des Cactus
+
+ID: 500215895
+Clan Tag: -LCR-
+Clan Name: Les Casques Rayés
+
+ID: 500045412
+Clan Tag: -LIG-
+Clan Name: Les Immortels Guerriers
+
+ID: 500166034
+Clan Tag: -LPF-
+Clan Name: Les Phonix de Feu
+
+ID: 500050025
+Clan Tag: -LPL-
+Clan Name: Le Pacte des Loups
+
+ID: 500062819
+Clan Tag: -LTN-
+Clan Name: - Les Templiers Noirs-
+
+ID: 500304014
+Clan Tag: -MEOW
+Clan Name: IN MEOW WE TRUST
+
+ID: 500135152
+Clan Tag: -MGP-
+Clan Name: Multi Gaming Players
+
+ID: 500215888
+Clan Tag: -NFE
+Clan Name: ...::: Noobs For Ever :::...
+
+ID: 500044095
+Clan Tag: -PCS-
+Clan Name: PROJECT CONQUERORS
+
+ID: 500066504
+Clan Tag: -PEPS
+Clan Name: The PEPSIS
+
+ID: 500005006
+Clan Tag: -R-D-
+Clan Name: Le Royal-Dragon
+
+ID: 500147009
+Clan Tag: -RDF
+Clan Name: Pz-Regiment 4
+
+ID: 500151729
+Clan Tag: -RVT-
+Clan Name: The Revenants
+
+ID: 500221804
+Clan Tag: -SHY-
+Clan Name: Shiny Shy!
+
+ID: 500194102
+Clan Tag: -UEF-
+Clan Name: Unité d'élite francaise
+
+ID: 500176231
+Clan Tag: -ZFS-
+Clan Name: Zouaves Forces Spéciales
+
+ID: 500024031
+Clan Tag: -_G_-
+Clan Name: Les Gaziers
+
+ID: 500071120
+Clan Tag: 0BUS
+Clan Name: OBUS dans ta face !
+
+ID: 500026476
+Clan Tag: 0DAY
+Clan Name: Zero-day strike vector
+
+ID: 500159230
+Clan Tag: 0PUS
+Clan Name: Octopus Gaming
+
+ID: 500045142
+Clan Tag: 0SEF
+Clan Name: :-[O.S.E.F]-:
+
+ID: 500206410
+Clan Tag: 0XY
+Clan Name: Oxudercinae Saumoné
+
+ID: 500068072
+Clan Tag: 1-DBF
+Clan Name: La 1ère Division des Blindées Fantômes
+
+ID: 500034037
+Clan Tag: 1-DFL
+Clan Name: -1re division française libre-
+
+ID: 500028092
+Clan Tag: 1067
+Clan Name: Colonne Durruti
+
+ID: 500154954
+Clan Tag: 12LVF
+Clan Name: 12eme Légion de Volontaire Francais
+
+ID: 500139243
+Clan Tag: 12MON
+Clan Name: les 12 monkeys
+
+ID: 500179765
+Clan Tag: 13ECB
+Clan Name: 13EME Escadron de Chars Blindés
+
+ID: 500181733
+Clan Tag: 14JUI
+Clan Name: République française
+
+ID: 500073106
+Clan Tag: 17875
+Clan Name: Les champions
+
+ID: 500157192
+Clan Tag: 1944D
+Clan Name: D-Day 1944
+
+ID: 500014494
+Clan Tag: 1B-NU
+Clan Name: 1er Bataillon des Nations-Unies
+
+ID: 500135596
+Clan Tag: 1BEXP
+Clan Name: 1er Bataillon d'expérimentation
+
+ID: 500076115
+Clan Tag: 1DBFL
+Clan Name: 1 division blindé france libre
+
+ID: 500010030
+Clan Tag: 1DBR
+Clan Name: 1re Division Blindée Réserviste
+
+ID: 500028203
+Clan Tag: 1FFC
+Clan Name: 1ère Force Française de Combat
+
+ID: 500045939
+Clan Tag: 1LB
+Clan Name: 1ere Légion Blindée
+
+ID: 500020521
+Clan Tag: 1RBC
+Clan Name: 1er Régiment de Blindés Cuirassiers
+
+ID: 500039890
+Clan Tag: 1RCB
+Clan Name: 1er Régiment de Chasseurs Bretons
+
+ID: 500020280
+Clan Tag: 1RCH
+Clan Name: 1er Régiment de Chasseurs
+
+ID: 500022862
+Clan Tag: 1SAFE
+Clan Name: UnSafe
+
+ID: 500061168
+Clan Tag: 1_RDF
+Clan Name: Premier Régiment de Blindés Francophones
+
+ID: 500149991
+Clan Tag: 235DB
+Clan Name: 235eme division blindée
+
+ID: 500069924
+Clan Tag: 2500
+Clan Name: KVJEAX
+
+ID: 500174940
+Clan Tag: 256
+Clan Name: fier d etre etoile
+
+ID: 500032042
+Clan Tag: 27BCA
+Clan Name: 27eme bataillon de chasseurs alpins
+
+ID: 500167370
+Clan Tag: 27EBC
+Clan Name: 27eme Bataillon des chasseurs alpins
+
+ID: 500213437
+Clan Tag: 2BAME
+Clan Name: 2BAME
+
+ID: 500000424
+Clan Tag: 2DB
+Clan Name: 2e Division Blindée
+
+ID: 500029422
+Clan Tag: 2DBFL
+Clan Name: 2e Division Blindée Francaise Leclerc
+
+ID: 500051072
+Clan Tag: 2DBH
+Clan Name: 2eme Division Blindée Héritage
+
+ID: 500062515
+Clan Tag: 2DBHS
+Clan Name: 2ème Division Blindée Haut-Savoyarde
+
+ID: 500058291
+Clan Tag: 2RAQ
+Clan Name: 2e Régiment d'Antarctique
+
+ID: 500179348
+Clan Tag: 2RFB
+Clan Name: 2 Régiment Franco Belge
+
+ID: 500070434
+Clan Tag: 3410
+Clan Name: METALGUN4
+
+ID: 500048133
+Clan Tag: 35RI
+Clan Name: 35ri
+
+ID: 500066344
+Clan Tag: 3DBFL
+Clan Name: 3e Division Blindée Française Leclerc
+
+ID: 500027942
+Clan Tag: 3PX
+Clan Name: Pixel Shot!
+
+ID: 500190277
+Clan Tag: 4-RCF
+Clan Name: 4ème Régiment de Chasseur Francais
+
+ID: 500072154
+Clan Tag: 4DBFL
+Clan Name: 4e Division Blindée Française Leclerc
+
+ID: 500026655
+Clan Tag: 4G
+Clan Name: 4GLORY
+
+ID: 500163900
+Clan Tag: 5-DB
+Clan Name: 5éme Division Blindé Française
+
+ID: 500049514
+Clan Tag: 5-RC
+Clan Name: 5éme Régiment de Cuirassiers. (FFA)
+
+ID: 500025308
+Clan Tag: 501-3
+Clan Name: 3ème escadron du 501ème RCC
+
+ID: 500200176
+Clan Tag: 501DC
+Clan Name: 501ème Division du Cèrbère
+
+ID: 500045925
+Clan Tag: 58DB
+Clan Name: 58ème Division Blindée
+
+ID: 500163764
+Clan Tag: 5DBFR
+Clan Name: 5e division de blindés
+
+ID: 500055145
+Clan Tag: 5EMEC
+Clan Name: 5 eme regiment de cuirassiers
+
+ID: 500059176
+Clan Tag: 5RCCF
+Clan Name: 501e-503e Régiment de char de combat Français
+
+ID: 500155379
+Clan Tag: 69RTT
+Clan Name: 69e Régiment des Tankistes Tranquilles
+
+ID: 500074812
+Clan Tag: 6JUNE
+Clan Name: le clan du 6 juin 1944
+
+ID: 500041557
+Clan Tag: 7-_-7
+Clan Name: LES TITANS
+
+ID: 500007000
+Clan Tag: 7C
+Clan Name: 7ème Compagnie
+
+ID: 500052075
+Clan Tag: 7DFBF
+Clan Name: 7éme Division des Forces Blindées Françaises
+
+ID: 500028729
+Clan Tag: 7EDB
+Clan Name: 7ème Escouade De Blindés
+
+ID: 500024159
+Clan Tag: 7FRBE
+Clan Name: La 7ème compagnie Franco-Belge
+
+ID: 500067584
+Clan Tag: 7RBF
+Clan Name: 7ème régiment blindé français
+
+ID: 500011747
+Clan Tag: 8BB
+Clan Name: 8 brigade blinde
+
+ID: 500048952
+Clan Tag: 92RGC
+Clan Name: 92° Régiment de la garde celte
+
+ID: 500057763
+Clan Tag: A-0-S
+Clan Name: Army of Smurfs
+
+ID: 500029645
+Clan Tag: A-F-R
+Clan Name: L'Agence Fou Rire
+
+ID: 500027026
+Clan Tag: A-I-E
+Clan Name: Alea Iacta Est ( Le sort en est jeté)
+
+ID: 500009237
+Clan Tag: A-T-O
+Clan Name: Army Terror Origins
+
+ID: 500142675
+Clan Tag: ACAN
+Clan Name: Acharnés
+
+ID: 500021124
+Clan Tag: ADO
+Clan Name: No Brain
+
+ID: 500194283
+Clan Tag: AFB30
+Clan Name: Alliance Française des Blindés
+
+ID: 500200038
+Clan Tag: AGROU
+Clan Name: AGROUGROU
+
+ID: 500075943
+Clan Tag: ALIAS
+Clan Name: ALIAS Team Elit
+
+ID: 500160857
+Clan Tag: ALV
+Clan Name: Aller les Verts
+
+ID: 500170746
+Clan Tag: AMORI
+Clan Name: Aut vincere, aut MORI !
+
+ID: 500011685
+Clan Tag: AMXFR
+Clan Name: Fabrique D'AMX 1948
+
+ID: 500035138
+Clan Tag: ANPE
+Clan Name: Ah non ! Pas eux ...
+
+ID: 500022447
+Clan Tag: ANTS_
+Clan Name: Titres sécurisés is serious business
+
+ID: 500135904
+Clan Tag: AOKW
+Clan Name: Art Of Keewee
+
+ID: 500154580
+Clan Tag: AR-M
+Clan Name: ARMOR MORTAL
+
+ID: 500061996
+Clan Tag: ARCE
+Clan Name: Armé Révolutionnaire de Chars Elite
+
+ID: 500154733
+Clan Tag: ARFF
+Clan Name: AmmoRack French Faction
+
+ID: 500007625
+Clan Tag: ARL
+Clan Name: Anti Rouille Lubrifiant
+
+ID: 500135519
+Clan Tag: AR_H
+Clan Name: Ar_H
+
+ID: 500042383
+Clan Tag: ASHEN
+Clan Name: The Ashen Forge
+
+ID: 500028572
+Clan Tag: AT0MG
+Clan Name: AT0MG
+
+ID: 500017768
+Clan Tag: ATCO
+Clan Name: Army Terror Corporation
+
+ID: 500148292
+Clan Tag: ATF40
+Clan Name: Armée de terre française 1940
+
+ID: 500012786
+Clan Tag: ATFO
+Clan Name: Army Terror Formation
+
+ID: 500191501
+Clan Tag: ATFR
+Clan Name: AT'Corp française
+
+ID: 500215548
+Clan Tag: AWGFP
+Clan Name: A WANNA GUN A FOR PLEASE
+
+ID: 500144755
+Clan Tag: B-B-1
+Clan Name: Big Blue One
+
+ID: 500060747
+Clan Tag: B-B-F
+Clan Name: Brigade des Blindés Français
+
+ID: 500045143
+Clan Tag: B-B_C
+Clan Name: Bip Bip et Coyote
+
+ID: 500033562
+Clan Tag: B-C-F
+Clan Name: Bataillon des Canards Flingueurs
+
+ID: 500048687
+Clan Tag: B-CAT
+Clan Name: Les suricates [B]
+
+ID: 500174784
+Clan Tag: B-R-F
+Clan Name: les Berêts Rouges Français
+
+ID: 500032742
+Clan Tag: BABFR
+Clan Name: BAND AND BROTHERS FR
+
+ID: 500058468
+Clan Tag: BAGET
+Clan Name: Baguette power
+
+ID: 500072690
+Clan Tag: BAJA
+Clan Name: Bastion d'As-tankistes Jongleurs d'Ananas
+
+ID: 500159764
+Clan Tag: BALEC
+Clan Name: bataillon anti-char leclerc
+
+ID: 500044660
+Clan Tag: BALTO
+Clan Name: Le BALTO - le bar tabac des " BALTRINGUES "
+
+ID: 500215804
+Clan Tag: BAROU
+Clan Name: BAROUDEUR
+
+ID: 500018530
+Clan Tag: BBFR
+Clan Name: BANZAI BLINDE.fr
+
+ID: 500173848
+Clan Tag: BBRFR
+Clan Name: Barbarians Power
+
+ID: 500070459
+Clan Tag: BDBF
+Clan Name: brouillard de bataille
+
+ID: 500046108
+Clan Tag: BDM
+Clan Name: Les Briseurs de Métaux
+
+ID: 500045120
+Clan Tag: BDOFB
+Clan Name: band of brother
+
+ID: 500009182
+Clan Tag: BELTF
+Clan Name: BELGIUM TEAM FRENCH
+
+ID: 500052013
+Clan Tag: BFDC
+Clan Name: Brigade Francophone De Combat
+
+ID: 500027508
+Clan Tag: BLAZE
+Clan Name: Hurricane Force
+
+ID: 500074759
+Clan Tag: BLKMA
+Clan Name: BLACK-MAMBA
+
+ID: 500065034
+Clan Tag: BMG-1
+Clan Name: BULLS MARKET GROUP 1
+
+ID: 500188139
+Clan Tag: BO0ST
+Clan Name: les boosted
+
+ID: 500071727
+Clan Tag: BRAD
+Clan Name: Easy compagnie
+
+ID: 500174529
+Clan Tag: BR_OS
+Clan Name: BRO'S
+
+ID: 500045442
+Clan Tag: B_C_G
+Clan Name: -Bataillon.Chars.Gaulois-
+
+ID: 500060194
+Clan Tag: B_P_L
+Clan Name: Bloody Phoenix Legion
+
+ID: 500045130
+Clan Tag: B_R_O
+Clan Name: La Big Red One
+
+ID: 500065002
+Clan Tag: C-D-T
+Clan Name: Commando Des TIGRES
+
+ID: 500072423
+Clan Tag: C-F-S
+Clan Name: [C_F_S] Company of French Soldier
+
+ID: 500220439
+Clan Tag: C0PE
+Clan Name: Skill Issue
+
+ID: 500204903
+Clan Tag: C4VE
+Clan Name: La Cave à Gamay
+
+ID: 500208092
+Clan Tag: CABFR
+Clan Name: Croissants Au Beurre
+
+ID: 500069304
+Clan Tag: CB-FR
+Clan Name: Compagnie blindée française libre
+
+ID: 500074844
+Clan Tag: CBK2A
+Clan Name: Corsicans Black Knights
+
+ID: 500063568
+Clan Tag: CCCP5
+Clan Name: Les Loups de la Volga
+
+ID: 500033711
+Clan Tag: CD-FR
+Clan Name: Carpe Diem
+
+ID: 500137500
+Clan Tag: CF-CB
+Clan Name: La Confrérie Française des Chars Blindés
+
+ID: 500068744
+Clan Tag: CF1
+Clan Name: Compagnie fantôme
+
+ID: 500073364
+Clan Tag: CFDB
+Clan Name: Compagnie Française Des Blindés
+
+ID: 500075596
+Clan Tag: CFDFN
+Clan Name: clan français des furets noir
+
+ID: 500023661
+Clan Tag: CFDT
+Clan Name: Clan Francophone De Tankistes
+
+ID: 500076134
+Clan Tag: CFF
+Clan Name: Corbeaux Fous Furieux
+
+ID: 500066220
+Clan Tag: CFRP
+Clan Name: Centre Francais de Rééducation Psychomotrice
+
+ID: 500073589
+Clan Tag: CFWT
+Clan Name: LES FAUCONS NOIRS
+
+ID: 500185821
+Clan Tag: CGJ
+Clan Name: The Crazy Gang of Joker
+
+ID: 500214453
+Clan Tag: CH1CK
+Clan Name: CHICK
+
+ID: 500045639
+Clan Tag: CHAC
+Clan Name: Chacal Compagnie
+
+ID: 500138528
+Clan Tag: CHK4L
+Clan Name: les chacals du désert
+
+ID: 500006253
+Clan Tag: CKC
+Clan Name: ! Chickens coop !
+
+ID: 500029526
+Clan Tag: CLASH
+Clan Name: Clan des Léopards de l'Atlantique Semi-Hédoniste
+
+ID: 500057412
+Clan Tag: CM_FR
+Clan Name: Les Chars-MEURS
+
+ID: 500190971
+Clan Tag: CONCH
+Clan Name: WE WILL CONCHE YOU ALL
+
+ID: 500137856
+Clan Tag: COOLB
+Clan Name: Cool Brother
+
+ID: 500000248
+Clan Tag: CPC
+Clan Name: Canards d'acier
+
+ID: 500044602
+Clan Tag: CQT
+Clan Name: CyberQualyTeam
+
+ID: 500030557
+Clan Tag: CRNGE
+Clan Name: CringeLand
+
+ID: 500198972
+Clan Tag: CRNGO
+Clan Name: Oh no ! CRINGO ...
+
+ID: 500076504
+Clan Tag: CROC
+Clan Name: LOUP
+
+ID: 500028571
+Clan Tag: CSFI
+Clan Name: Commando Spécial des Forces Internationnales
+
+ID: 500061751
+Clan Tag: CTR0L
+Clan Name: Crazy Troll
+
+ID: 500061665
+Clan Tag: CTS
+Clan Name: CLAN DES TANKISTES SOLIDAIRES
+
+ID: 500169418
+Clan Tag: CUKAS
+Clan Name: SUCE
+
+ID: 500017763
+Clan Tag: CXIII
+Clan Name: CHACALS Club XIII
+
+ID: 500148375
+Clan Tag: CZBLD
+Clan Name: Cenzub Forad Blindée
+
+ID: 500071574
+Clan Tag: D-I-L
+Clan Name: tankeur.fou
+
+ID: 500008961
+Clan Tag: D-T-C
+Clan Name: Dream Team Company
+
+ID: 500185145
+Clan Tag: D-VN
+Clan Name: 718e Division de la Vipère Noire
+
+ID: 500150042
+Clan Tag: D4TA
+Clan Name: D4ta is source, D4ta is power
+
+ID: 500148435
+Clan Tag: DABFR
+Clan Name: French DAB
+
+ID: 500016681
+Clan Tag: DAGU1
+Clan Name: Les Hussards [Clan Dague]
+
+ID: 500003939
+Clan Tag: DAGUE
+Clan Name: La DAGUE [Clan La DAGUE]
+
+ID: 500208983
+Clan Tag: DALI
+Clan Name: There are never absolute facts, only opportunities
+
+ID: 500045881
+Clan Tag: DANDY
+Clan Name: NOobless OBlige
+
+ID: 500033678
+Clan Tag: DAPH
+Clan Name: Division Des Amateurs de Paté Henaff
+
+ID: 500039342
+Clan Tag: DB-F
+Clan Name: la Division des Blindée Français
+
+ID: 500174555
+Clan Tag: DBF2
+Clan Name: la 235 ème division blindé française
+
+ID: 500154634
+Clan Tag: DBFE
+Clan Name: elite 2eme division blindee francaise et europeenne
+
+ID: 500051596
+Clan Tag: DBFR1
+Clan Name: La 1 éré DB ( FR )
+
+ID: 500024370
+Clan Tag: DB_FR
+Clan Name: division blinde française
+
+ID: 500065706
+Clan Tag: DDLB
+Clan Name: Division Des Loups Blindés
+
+ID: 500160943
+Clan Tag: DEGS
+Clan Name: Les Déglingués
+
+ID: 500014383
+Clan Tag: DEIFY
+Clan Name: A man without anger will never know glory
+
+ID: 500197480
+Clan Tag: DEMAP
+Clan Name: DEMAP, Detruire, Ecraser, Malmener Avec Plaisir (ღ˘⌣˘)♥ ℒ♡ⓥℯ ㄚ♡ⓤ
+
+ID: 500046461
+Clan Tag: DL44
+Clan Name: Division Leclerc 1944
+
+ID: 500048190
+Clan Tag: DODU
+Clan Name: les lanceurs de dodus
+
+ID: 500168071
+Clan Tag: DOYEN
+Clan Name: Les Vétérans(FR)
+
+ID: 500185985
+Clan Tag: DR0PS
+Clan Name: DR0PS
+
+ID: 500075825
+Clan Tag: DRUGZ
+Clan Name: Drugz
+
+ID: 500067718
+Clan Tag: DR_FR
+Clan Name: DRAKEN FR
+
+ID: 500188265
+Clan Tag: DS2BF
+Clan Name: 2eme Division Semi Blindé Française
+
+ID: 500168264
+Clan Tag: DUST-
+Clan Name: La poussière sera votre fin
+
+ID: 500036325
+Clan Tag: DVN-G
+Clan Name: Division Ghost
+
+ID: 500046503
+Clan Tag: D_WAR
+Clan Name: Digital Warfare
+
+ID: 500138942
+Clan Tag: E-C-M
+Clan Name: L'EQUIPE DES BOULETS
+
+ID: 500187028
+Clan Tag: E-G-C
+Clan Name: Eagle Rising
+
+ID: 500167550
+Clan Tag: EARLY
+Clan Name: La bataille appartient à ceux qui se lèvent tôt !
+
+ID: 500064742
+Clan Tag: ECBOB
+Clan Name: Easy company of Band of Brothers
+
+ID: 500073909
+Clan Tag: ECLF
+Clan Name: Escadron des chars lourds francophone
+
+ID: 500066033
+Clan Tag: EDFR
+Clan Name: Equipe de France
+
+ID: 500074575
+Clan Tag: EGAUX
+Clan Name: liberté-fr
+
+ID: 500139606
+Clan Tag: EHPAD
+Clan Name: Le beau séjour
+
+ID: 500035234
+Clan Tag: EJARC
+Clan Name: Escadron Jeanne d'Arc
+
+ID: 500044302
+Clan Tag: ELANS
+Clan Name: Les élans
+
+ID: 500205234
+Clan Tag: EMC-2
+Clan Name: empire des macrocéphales cannabiculteurs
+
+ID: 500070757
+Clan Tag: ENLIL
+Clan Name: ND/NM
+
+ID: 500058712
+Clan Tag: ETR-P
+Clan Name: Etrebil Phantôm
+
+ID: 500057655
+Clan Tag: ETTFR
+Clan Name: EliTe Team FR
+
+ID: 500156008
+Clan Tag: ETTOC
+Clan Name: Et Toc !
+
+ID: 500075956
+Clan Tag: EX-OD
+Clan Name: EXOD
+
+ID: 500253294
+Clan Tag: EX1L
+Clan Name: EX1L
+
+ID: 500057403
+Clan Tag: EX1T
+Clan Name: EX1T
+
+ID: 500039554
+Clan Tag: EX20W
+Clan Name: Les Maquisards de L'Ouest
+
+ID: 500154327
+Clan Tag: EXODE
+Clan Name: Exode
+
+ID: 500071759
+Clan Tag: F--DI
+Clan Name: French-Délirium-In
+
+ID: 500013338
+Clan Tag: F-49
+Clan Name: War of 49
+
+ID: 500055002
+Clan Tag: F-AM
+Clan Name: Frères-d'armes
+
+ID: 500024803
+Clan Tag: F-D-L
+Clan Name: Fer De Lance
+
+ID: 500075367
+Clan Tag: F-E-T
+Clan Name: ETERNITY TANKS
+
+ID: 500050744
+Clan Tag: F-RNG
+Clan Name: F-RNG
+
+ID: 500025821
+Clan Tag: F-_-D
+Clan Name: French Délirium
+
+ID: 500018324
+Clan Tag: FAS_X
+Clan Name: French Armored Squad "PhoeniX"
+
+ID: 500071714
+Clan Tag: FAUX
+Clan Name: Les Comptables
+
+ID: 500153573
+Clan Tag: FCLB
+Clan Name: FRclub
+
+ID: 500246147
+Clan Tag: FCN
+Clan Name: Farming ClaN
+
+ID: 500167706
+Clan Tag: FCR
+Clan Name: FC.FRANCE
+
+ID: 500153195
+Clan Tag: FDBF
+Clan Name: Forces de Dissuasion Blindé Francais
+
+ID: 500076518
+Clan Tag: FDDF
+Clan Name: Frères d'armes de france
+
+ID: 500153866
+Clan Tag: FFCA
+Clan Name: Funny Fun Casual
+
+ID: 500000151
+Clan Tag: FFE
+Clan Name: Forces spéciales Françaises et Étrangères
+
+ID: 500041312
+Clan Tag: FFN
+Clan Name: les forteresses blindées
+
+ID: 500048631
+Clan Tag: FFW-1
+Clan Name: Fédération Française des joueurs de World Of Tank
+
+ID: 500016056
+Clan Tag: FIDB
+Clan Name: Force d'Intervention Des Blindés
+
+ID: 500135616
+Clan Tag: FKIS
+Clan Name: french-kiss
+
+ID: 500161899
+Clan Tag: FLE
+Clan Name: france libertee
+
+ID: 500212969
+Clan Tag: FMGG
+Clan Name: Full Metal Garbage !
+
+ID: 500161647
+Clan Tag: FMRF
+Clan Name: FULL METAL RACLETTE
+
+ID: 500136615
+Clan Tag: FNE
+Clan Name: France
+
+ID: 500176077
+Clan Tag: FOAC
+Clan Name: Force actarus494
+
+ID: 500072668
+Clan Tag: FOGT
+Clan Name: Forces of Ghost's Tanks
+
+ID: 500066286
+Clan Tag: FONKY
+Clan Name: FonKy FamILLy
+
+ID: 500072750
+Clan Tag: FPCM
+Clan Name: Fait pas chier Mémé
+
+ID: 500046988
+Clan Tag: FPDG
+Clan Name: Les Fra-Pas-Dingues
+
+ID: 500027285
+Clan Tag: FR-29
+Clan Name: Les Têtes Brûlés
+
+ID: 500048396
+Clan Tag: FR-83
+Clan Name: aramis83
+
+ID: 500054946
+Clan Tag: FR-DF
+Clan Name: Francais en action
+
+ID: 500164438
+Clan Tag: FR-PR
+Clan Name: FR-PR
+
+ID: 500181751
+Clan Tag: FR-R
+Clan Name: RAVAGEURS
+
+ID: 500019742
+Clan Tag: FR-TR
+Clan Name: Francs-Tireur
+
+ID: 500153749
+Clan Tag: FR59
+Clan Name: FR59.....Tank D'Acier Et Cracheur De Plomb..
+
+ID: 500143290
+Clan Tag: FRACA
+Clan Name: Les Fracasseurs
+
+ID: 500059462
+Clan Tag: FRAFR
+Clan Name: FR-Aubry-FR
+
+ID: 500138105
+Clan Tag: FRANP
+Clan Name: Les Pilotes Français
+
+ID: 500152502
+Clan Tag: FRBN
+Clan Name: FIRE REBORN
+
+ID: 500052183
+Clan Tag: FRBNR
+Clan Name: FRBNR
+
+ID: 500198129
+Clan Tag: FRDD
+Clan Name: French Red Dragons Division
+
+ID: 500050839
+Clan Tag: FRF1
+Clan Name: French Fighter's 1
+
+ID: 500154444
+Clan Tag: FRFG
+Clan Name: Forest Gun
+
+ID: 500070230
+Clan Tag: FRGIF
+Clan Name: FRENCH GIFTED
+
+ID: 500058401
+Clan Tag: FRGS
+Clan Name: Les Froggies
+
+ID: 500010567
+Clan Tag: FRGT
+Clan Name: !!French Gold Team!!
+
+ID: 500035582
+Clan Tag: FR_TH
+Clan Name: French Teutch Ops
+
+ID: 500070275
+Clan Tag: FT-PF
+Clan Name: francs-tireurs et partisans francais
+
+ID: 500173642
+Clan Tag: FTFF
+Clan Name: Force Tankiste Familiale Française
+
+ID: 500041214
+Clan Tag: FUR1E
+Clan Name: Furie Française
+
+ID: 500060327
+Clan Tag: FURY-
+Clan Name: -FURY-
+
+ID: 500013293
+Clan Tag: FWS
+Clan Name: Furious Warrior Squad
+
+ID: 500030601
+Clan Tag: F_R_A
+Clan Name: F_R_A
+
+ID: 500152121
+Clan Tag: G-PY
+Clan Name: Go-Play
+
+ID: 500163035
+Clan Tag: G0LDN
+Clan Name: Golden Noob Campers
+
+ID: 500068014
+Clan Tag: GBOB
+Clan Name: Genuine Band Of Brothers
+
+ID: 500056406
+Clan Tag: GC444
+Clan Name: The Last Chance
+
+ID: 500013932
+Clan Tag: GDRFB
+Clan Name: Gang Des Requins Franco Belge
+
+ID: 500066000
+Clan Tag: GDUCK
+Clan Name: GentleDucks
+
+ID: 500062906
+Clan Tag: GGFR
+Clan Name: Les Grognards de la Garde Impériale Française
+
+ID: 500155418
+Clan Tag: GP02
+Clan Name: les fou des tank
+
+ID: 500136741
+Clan Tag: GRTT
+Clan Name: GeRoTiTo
+
+ID: 500076010
+Clan Tag: GVFB
+Clan Name: La Grande Vadrouille Franco-Belge
+
+ID: 500072111
+Clan Tag: HAPY-
+Clan Name: HAPPY HEAT
+
+ID: 500135214
+Clan Tag: HARDI
+Clan Name: LE COQ HARDI
+
+ID: 500054826
+Clan Tag: HOME1
+Clan Name: Welcome Home !
+
+ID: 500178853
+Clan Tag: HZ0NE
+Clan Name: HORSZONE
+
+ID: 500068526
+Clan Tag: IDPFT
+Clan Name: IDP French Team
+
+ID: 500068667
+Clan Tag: ILY
+Clan Name: Iron Legacy
+
+ID: 500075067
+Clan Tag: INDIE
+Clan Name: Indie Clan
+
+ID: 500189093
+Clan Tag: INFYS
+Clan Name: Infinity.Tanks
+
+ID: 500161584
+Clan Tag: IN_VI
+Clan Name: _INVICTUS_
+
+ID: 500035359
+Clan Tag: ISTC
+Clan Name: Inter Syndicale des Tankistes Combattants
+
+ID: 500046573
+Clan Tag: ITWT
+Clan Name: In Tartiflette We Trust
+
+ID: 500192517
+Clan Tag: IZZOU
+Clan Name: El risitas el bagnador
+
+ID: 500070945
+Clan Tag: JM-DB
+Clan Name: La Jacke und mich division blindée
+
+ID: 500161379
+Clan Tag: JOK-R
+Clan Name: We Are Crazy !
+
+ID: 500022156
+Clan Tag: JPR
+Clan Name: Juste Pour Rire
+
+ID: 500009533
+Clan Tag: JVC
+Clan Name: Jeuxvideo.com forum wot
+
+ID: 500164778
+Clan Tag: KA-MI
+Clan Name: ∞ KAMIKAZE ∞
+
+ID: 500204951
+Clan Tag: KAAM
+Clan Name: Le Cul de Chouette
+
+ID: 500152965
+Clan Tag: KBB4
+Clan Name: Khibackblood
+
+ID: 500054044
+Clan Tag: KEPON
+Clan Name: KEPON d'un jour KEPON toujours, n' oublie pas ta bière et ta crète !
+
+ID: 500069062
+Clan Tag: KIF
+Clan Name: Les Kamikazes Indomptables Français
+
+ID: 500054888
+Clan Tag: KIIL
+Clan Name: Les tueurs de noobs
+
+ID: 500164763
+Clan Tag: KIND
+Clan Name: Kinder Pingui
+
+ID: 500063754
+Clan Tag: KOWS
+Clan Name: Kings of WOT
+
+ID: 500072129
+Clan Tag: L-A-R
+Clan Name: L-A-R
+
+ID: 500135793
+Clan Tag: L-B-F
+Clan Name: Les Bisons Futés
+
+ID: 500062198
+Clan Tag: L-B-R
+Clan Name: Les Boulets Rouges
+
+ID: 500066996
+Clan Tag: L-C-
+Clan Name: Les Chats maigres
+
+ID: 500052753
+Clan Tag: L-C-G
+Clan Name: Les Coqs Gaulois
+
+ID: 500052771
+Clan Tag: L-C-R
+Clan Name: LE CERCLE ROUGE
+
+ID: 500218546
+Clan Tag: L-C-W
+Clan Name: Les lapins crétins de W.O.T
+
+ID: 500061408
+Clan Tag: L-D-W
+Clan Name: Liga-Der-Welten
+
+ID: 500067361
+Clan Tag: L-D11
+Clan Name: Les défonceurs de chars de l aude
+
+ID: 500180244
+Clan Tag: L-IV
+Clan Name: Legio IV Victrix
+
+ID: 500193644
+Clan Tag: L-JMF
+Clan Name: LES J'M'EN FOU
+
+ID: 500161639
+Clan Tag: L-L-P
+Clan Name: LA LEGION PERDUE
+
+ID: 500177024
+Clan Tag: L-M-T
+Clan Name: La Meute Des Ténèbres
+
+ID: 500065133
+Clan Tag: L-S-F
+Clan Name: les spartiates français
+
+ID: 500029182
+Clan Tag: L-T-F
+Clan Name: Les Tueurs Fou
+
+ID: 500067764
+Clan Tag: L-TFR
+Clan Name: LTFR
+
+ID: 500072059
+Clan Tag: L-V-L
+Clan Name: Les vieux Loups
+
+ID: 500073285
+Clan Tag: L-V-R
+Clan Name: Les Vieux Renards
+
+ID: 500065040
+Clan Tag: L15S
+Clan Name: les 15 samaritains
+
+ID: 500076055
+Clan Tag: L7EC
+Clan Name: la septieme compagnie
+
+ID: 500178148
+Clan Tag: LA-DP
+Clan Name: Les ailes du purgatoire
+
+ID: 500135176
+Clan Tag: LA-FR
+Clan Name: Les Amis FR
+
+ID: 500034422
+Clan Tag: LADM1
+Clan Name: les aigles de la mort {L.A.D.L.M}
+
+ID: 500155913
+Clan Tag: LAPIN
+Clan Name: le Clan Carrotéiste
+
+ID: 500055090
+Clan Tag: LBAT
+Clan Name: les bon amies tankistes
+
+ID: 500013573
+Clan Tag: LBT
+Clan Name: Les Bébés Tonnerre
+
+ID: 500182513
+Clan Tag: LC-AF
+Clan Name: LA CAGE AUX FOLLES
+
+ID: 500166363
+Clan Tag: LCAT
+Clan Name: LES COPAINS D'ABORD TANKISTES
+
+ID: 500163816
+Clan Tag: LCCS
+Clan Name: les cabots chars
+
+ID: 500032886
+Clan Tag: LCDBF
+Clan Name: La cavalerie des barbares français
+
+ID: 500254529
+Clan Tag: LCDFN
+Clan Name: Les Cités De France Narvalo
+
+ID: 500051468
+Clan Tag: LCDLA
+Clan Name: les chevaliers de l apocalypse
+
+ID: 500136291
+Clan Tag: LCDT1
+Clan Name: Les Cannoniers Des Ténébres
+
+ID: 500189980
+Clan Tag: LCF20
+Clan Name: Les casseurs Flotteurs
+
+ID: 500027103
+Clan Tag: LCM
+Clan Name: Les Cochons Masqués
+
+ID: 500168560
+Clan Tag: LD-V
+Clan Name: Les diables Verts
+
+ID: 500064515
+Clan Tag: LDDT
+Clan Name: Les Destructeurs De Tanks
+
+ID: 500052799
+Clan Tag: LDGC
+Clan Name: Les Détrousseurs de Grand Chemin
+
+ID: 500073594
+Clan Tag: LDR
+Clan Name: Les Dragons Rouge
+
+ID: 500137696
+Clan Tag: LDSF
+Clan Name: Les Dissident Français
+
+ID: 500043726
+Clan Tag: LDTN
+Clan Name: L'union des tankistes nationales
+
+ID: 500135955
+Clan Tag: LEF83
+Clan Name: LES ÉLITES FRANÇAISE DU 83
+
+ID: 500182083
+Clan Tag: LEFR
+Clan Name: Bienheureux les fêlés !
+
+ID: 500069186
+Clan Tag: LEG-8
+Clan Name: Légion 8
+
+ID: 500070618
+Clan Tag: LELOP
+Clan Name: Les Loups Gris
+
+ID: 500062479
+Clan Tag: LFD59
+Clan Name: les franc dragon 59
+
+ID: 500148281
+Clan Tag: LFDA
+Clan Name: les faucheurs d acier
+
+ID: 500057145
+Clan Tag: LFDC_
+Clan Name: les fous du combat
+
+ID: 500013540
+Clan Tag: LFF
+Clan Name: Les Forces Francaises
+
+ID: 500021115
+Clan Tag: LFF3
+Clan Name: Les Forces Francaises 3
+
+ID: 500175587
+Clan Tag: LFFEG
+Clan Name: La france en Guerre
+
+ID: 500075167
+Clan Tag: LFPFR
+Clan Name: Les Frères Poulets
+
+ID: 500208215
+Clan Tag: LFRS
+Clan Name: Les Faucheurss
+
+ID: 500207661
+Clan Tag: LG-FB
+Clan Name: Le gang Franco-Belge
+
+ID: 500027951
+Clan Tag: LGI
+Clan Name: La Garde Impériale
+
+ID: 500153722
+Clan Tag: LGVF
+Clan Name: Les Grands Vadrouilleurs Français
+
+ID: 500151191
+Clan Tag: LHDL
+Clan Name: LES HERITIERS DE LASALLE
+
+ID: 500035329
+Clan Tag: LICS
+Clan Name: les_incontournables
+
+ID: 500159571
+Clan Tag: LLDN
+Clan Name: Les Loups Du Nords
+
+ID: 500061595
+Clan Tag: LLID
+Clan Name: LIONS INDOMPTABLES
+
+ID: 500042640
+Clan Tag: LLS1
+Clan Name: Les Lapins Sanglants
+
+ID: 500060243
+Clan Tag: LMDR
+Clan Name: LES M D R
+
+ID: 500030932
+Clan Tag: LMFX
+Clan Name: Les Maquisards Furieux
+
+ID: 500064991
+Clan Tag: LPL01
+Clan Name: le peuple libre
+
+ID: 500076114
+Clan Tag: LPX
+Clan Name: Les Phenix
+
+ID: 500159112
+Clan Tag: LR-CA
+Clan Name: Les Résistants Contre-Attaquent
+
+ID: 500197566
+Clan Tag: LRCA
+Clan Name: Les Rapaces Chanceux Albinos
+
+ID: 500205411
+Clan Tag: LRDF
+Clan Name: Le régiment du Fun
+
+ID: 500068945
+Clan Tag: LRF
+Clan Name: Les résistants français
+
+ID: 500011542
+Clan Tag: LRP
+Clan Name: Les Requins du Pacifique
+
+ID: 500136377
+Clan Tag: LS-33
+Clan Name: LES SQUALES DU 33
+
+ID: 500074711
+Clan Tag: LSCN
+Clan Name: LES SCORPION NOIR
+
+ID: 500060302
+Clan Tag: LSH-R
+Clan Name: LSH Reloaded
+
+ID: 500020312
+Clan Tag: LTAR
+Clan Name: Les Tanks à Roulettes
+
+ID: 500053091
+Clan Tag: LTBA
+Clan Name: Les Têtes Brulées Académie
+
+ID: 500027705
+Clan Tag: LTBFR
+Clan Name: les tetes brulees fr
+
+ID: 500156804
+Clan Tag: LTDMT
+Clan Name: la tribu des melon tueurs
+
+ID: 500036721
+Clan Tag: LTDO
+Clan Name: Les Tankistes de l'Ombre
+
+ID: 500074599
+Clan Tag: LTFSO
+Clan Name: LES TANKISTES FRANCAIS DU SUD-OUESTSC
+
+ID: 500065054
+Clan Tag: LTV
+Clan Name: Les Tigres Victorieux
+
+ID: 500064381
+Clan Tag: LUMA
+Clan Name: La Compagnie des Lumas
+
+ID: 500021193
+Clan Tag: LVGF
+Clan Name: La vieille Garde Francaise
+
+ID: 500062607
+Clan Tag: LVTV
+Clan Name: les vieux tankistes volontaires
+
+ID: 500060827
+Clan Tag: LW57
+Clan Name: lorraine warriors
+
+ID: 500069205
+Clan Tag: LZV
+Clan Name: Le Zboub Vaincra
+
+ID: 500030225
+Clan Tag: L_D_A
+Clan Name: Les Dragons d'Acier
+
+ID: 500032697
+Clan Tag: L_D_W
+Clan Name: les démon de WOT
+
+ID: 500069386
+Clan Tag: L_E_F
+Clan Name: Liberté Egalité Fraternité
+
+ID: 500038210
+Clan Tag: L_F_F
+Clan Name: Les Fêtards Francais !!!
+
+ID: 500010407
+Clan Tag: L_F_T
+Clan Name: Les Francs Tankistes
+
+ID: 500159970
+Clan Tag: L_G_D
+Clan Name: LES GROS DIEPZ
+
+ID: 500192994
+Clan Tag: M-D-R
+Clan Name: Maison2Repos
+
+ID: 500002059
+Clan Tag: MADFR
+Clan Name: Madness
+
+ID: 500198217
+Clan Tag: MAND0
+Clan Name: Mandalorian
+
+ID: 500031581
+Clan Tag: MEKA
+Clan Name: Mekanical's Army
+
+ID: 500138112
+Clan Tag: MET_H
+Clan Name: METAL HURLANT
+
+ID: 500138982
+Clan Tag: MF_T
+Clan Name: MaFia-Tankistes
+
+ID: 500042864
+Clan Tag: MGK
+Clan Name: MGK Team
+
+ID: 500176635
+Clan Tag: MJEUX
+Clan Name: MULTI JEUX FR
+
+ID: 500160929
+Clan Tag: MLGA
+Clan Name: Les Marie-Louise de la Grande Armée
+
+ID: 500179446
+Clan Tag: MMLC
+Clan Name: les combattant de la liberté
+
+ID: 500194990
+Clan Tag: MOROS
+Clan Name: Le destin fatal
+
+ID: 500057838
+Clan Tag: MU-FC
+Clan Name: Mercenaire union francophone !
+
+ID: 500028056
+Clan Tag: MYT
+Clan Name: MYT
+
+ID: 500016962
+Clan Tag: M_M_P
+Clan Name: Méchante Meute de Potes
+
+ID: 500145244
+Clan Tag: N-R-V
+Clan Name: No Rage Vindict
+
+ID: 500060049
+Clan Tag: N00T
+Clan Name: NOOT
+
+ID: 500153761
+Clan Tag: N0OBZ
+Clan Name: Les Exécuteurs Testamentaires
+
+ID: 500138242
+Clan Tag: NAFLE
+Clan Name: nos âmes feront de nous une légende éternelle
+
+ID: 500017291
+Clan Tag: NAPO
+Clan Name: Bonaparte
+
+ID: 500072633
+Clan Tag: NDNM
+Clan Name: Ni Dieu Ni Maitre
+
+ID: 500174060
+Clan Tag: NNGF
+Clan Name: No Need To Go Further
+
+ID: 500070829
+Clan Tag: NR-V
+Clan Name: Les Enervés !
+
+ID: 500161141
+Clan Tag: NVWS
+Clan Name: NVWS : No Victory Without Sacrifice
+
+ID: 500003716
+Clan Tag: NWBOT
+Clan Name: NewBøt
+
+ID: 500205697
+Clan Tag: O-P-H
+Clan Name: L'Ordre Prétorien d'Hadès
+
+ID: 500138049
+Clan Tag: O2VM
+Clan Name: On Va Vous Mickey
+
+ID: 500062609
+Clan Tag: OBK
+Clan Name: ORPHAN BLACK
+
+ID: 500033431
+Clan Tag: OBUS
+Clan Name: batel map
+
+ID: 500015777
+Clan Tag: OFS
+Clan Name: Operation Force Special
+
+ID: 500064003
+Clan Tag: OF_FR
+Clan Name: L´ordre des faucheurs français
+
+ID: 500136232
+Clan Tag: ORA
+Clan Name: Organisation de Résistance de l'Armée
+
+ID: 500212716
+Clan Tag: OZAMI
+Clan Name: o_zami
+
+ID: 500074408
+Clan Tag: P-L-S
+Clan Name: Polygames
+
+ID: 500015283
+Clan Tag: P-P-S
+Clan Name: Les Petits Poneys Sanglants
+
+ID: 500035426
+Clan Tag: P38
+Clan Name: =Free Tanks=
+
+ID: 500214957
+Clan Tag: PAM-A
+Clan Name: Confrérie de la Sainte Patate (A)
+
+ID: 500215006
+Clan Tag: PAM-B
+Clan Name: Confrérie de la Sainte Patate (B)
+
+ID: 500215094
+Clan Tag: PAM-C
+Clan Name: Confrérie de la Sainte Patate (C)
+
+ID: 500189202
+Clan Tag: PAM-D
+Clan Name: Confrérie de la Sainte Patate (D)
+
+ID: 500217258
+Clan Tag: PAM-E
+Clan Name: Confrérie de la Sainte Patate (E)
+
+ID: 500071307
+Clan Tag: PARAB
+Clan Name: IN PARABELLUM
+
+ID: 500136120
+Clan Tag: PEGI7
+Clan Name: PEGI7
+
+ID: 500010063
+Clan Tag: PGFFC
+Clan Name: Pleasures Games For French Company
+
+ID: 500166793
+Clan Tag: PHOK
+Clan Name: PHOK the Karma
+
+ID: 500020360
+Clan Tag: PLF
+Clan Name: Pour le fun
+
+ID: 500016758
+Clan Tag: PORC
+Clan Name: La Porcherie
+
+ID: 500163191
+Clan Tag: POUET
+Clan Name: Pet d'Oursin Usagé Emanant d'un Tacos
+
+ID: 500043454
+Clan Tag: POULE
+Clan Name: Chick-Team
+
+ID: 500055389
+Clan Tag: PR3D2
+Clan Name: PREDATOR2
+
+ID: 500175986
+Clan Tag: PTFD
+Clan Name: PANTOUFLARD
+
+ID: 500042530
+Clan Tag: PW-FR
+Clan Name: PW-FR
+
+ID: 500060632
+Clan Tag: PZ-S
+Clan Name: 501st Panzer Squad
+
+ID: 500156330
+Clan Tag: PZJ-D
+Clan Name: PanzerJäger Division
+
+ID: 500161530
+Clan Tag: QBC
+Clan Name: Les Querelleurs en Bat.-Chat
+
+ID: 500032001
+Clan Tag: R-CAT
+Clan Name: Les suricates [R]
+
+ID: 500059133
+Clan Tag: R-E-P
+Clan Name: LES R-E-P
+
+ID: 500180299
+Clan Tag: R-I-A
+Clan Name: 5ème R-I-A-O-M
+
+ID: 500075816
+Clan Tag: R-W-F
+Clan Name: The Red Wolfs French
+
+ID: 500071243
+Clan Tag: R0TI
+Clan Name: Toujours saignant, souvent à point, meilleur bien cuit.
+
+ID: 500172249
+Clan Tag: RAB-
+Clan Name: RIEN A BRANLER
+
+ID: 500145751
+Clan Tag: RAF-H
+Clan Name: Special Forces RAF-HMU
+
+ID: 500245570
+Clan Tag: RAVFR
+Clan Name: RaVen's
+
+ID: 500072723
+Clan Tag: RAZ1R
+Clan Name: The Team RAZ3R-I
+
+ID: 500159243
+Clan Tag: RAZ3R
+Clan Name: Team RAZ3R Revive
+
+ID: 500143725
+Clan Tag: RB-FR
+Clan Name: Régiment de Blindés Français
+
+ID: 500027137
+Clan Tag: RBLFR
+Clan Name: Régiment de Blindés Libre Français
+
+ID: 500053652
+Clan Tag: RCF
+Clan Name: Régiment de chars francophone
+
+ID: 500137452
+Clan Tag: RCLF
+Clan Name: Régiment des chars libres français
+
+ID: 500155839
+Clan Tag: RECT0
+Clan Name: RECTO - VERSO
+
+ID: 500134970
+Clan Tag: REG
+Clan Name: VAINCRE OU MOURIR
+
+ID: 500069089
+Clan Tag: RF-FR
+Clan Name: Rapid Fire FR
+
+ID: 500026834
+Clan Tag: RHIN0
+Clan Name: 38ème BCC
+
+ID: 500217684
+Clan Tag: RIIP
+Clan Name: Qu'il/elle repose en paix
+
+ID: 500054533
+Clan Tag: RIPRO
+Clan Name: Rusé Insoumis professionnels Respectables Omerta
+
+ID: 500192466
+Clan Tag: RTFR
+Clan Name: Régiment de Tankistes Français
+
+ID: 500213897
+Clan Tag: RVGD
+Clan Name: RaVaGeD : The Era of Drama
+
+ID: 500027236
+Clan Tag: RZBK
+Clan Name: Razorback
+
+ID: 500182762
+Clan Tag: S-C-F
+Clan Name: Sans Clan Fixe
+
+ID: 500180081
+Clan Tag: S4BRE
+Clan Name: 4ème Hussard
+
+ID: 500057067
+Clan Tag: SAOR
+Clan Name: Soldats Alliés aux Obus Ravageurs
+
+ID: 500159235
+Clan Tag: SCOR-
+Clan Name: Les. SCORPIONS
+
+ID: 500052284
+Clan Tag: SCT
+Clan Name: Le Sanctuaire !
+
+ID: 500045116
+Clan Tag: SF-FR
+Clan Name: Semper-fi [FR]
+
+ID: 500203129
+Clan Tag: SFSL
+Clan Name: Sang Froid Sans Lois
+
+ID: 500066575
+Clan Tag: SGNR
+Clan Name: Les Sanguinaires
+
+ID: 500030712
+Clan Tag: SINGE
+Clan Name: Sans Intelligence Ni Grosse Ecoute
+
+ID: 500145981
+Clan Tag: SIPN
+Clan Name: Siema Immigrés Polskis Naturistes
+
+ID: 500205547
+Clan Tag: SK0LL
+Clan Name: IN SK0LL WE TRUST !
+
+ID: 500071409
+Clan Tag: SKUD
+Clan Name: Consortium Soviétique de Haute Technologie Militaire
+
+ID: 500178259
+Clan Tag: SKYNE
+Clan Name: Skystone
+
+ID: 500155451
+Clan Tag: SLMDR
+Clan Name: les salamandres
+
+ID: 500068991
+Clan Tag: SNCF_
+Clan Name: Sans Nous C'est Foutu
+
+ID: 500149099
+Clan Tag: SNPAI
+Clan Name: Notice me Senpai
+
+ID: 500066101
+Clan Tag: SNU
+Clan Name: Shēdingu
+
+ID: 500156525
+Clan Tag: SOAD
+Clan Name: Sons Of A Death
+
+ID: 500015295
+Clan Tag: SOFG
+Clan Name: SPIRIT OF GAMERS
+
+ID: 500157034
+Clan Tag: SPAR-
+Clan Name: SPARTIATE team fr
+
+ID: 500066063
+Clan Tag: SPDT
+Clan Name: S.P.D.T
+
+ID: 500063803
+Clan Tag: SPH1X
+Clan Name: The power of the Sphinx...
+
+ID: 500005918
+Clan Tag: SRE
+Clan Name: Suisse Empire
+
+ID: 500059545
+Clan Tag: SSM
+Clan Name: Sauvons le Soldat Mignon
+
+ID: 500062964
+Clan Tag: STLKN
+Clan Name: _~°SteelKnight°~_
+
+ID: 500031903
+Clan Tag: SUBX
+Clan Name: SUBMARINE
+
+ID: 500027036
+Clan Tag: SURI4
+Clan Name: [ Les suricates ]
+
+ID: 500208114
+Clan Tag: SURYA
+Clan Name: Surya
+
+ID: 500160092
+Clan Tag: S_PQR
+Clan Name: Senatus_Populus Que Romanus
+
+ID: 500050425
+Clan Tag: T-I-C
+Clan Name: The Incredible Couillu
+
+ID: 500020096
+Clan Tag: T-SK
+Clan Name: Savoie-Killers
+
+ID: 500174269
+Clan Tag: T-WIX
+Clan Name: TWIX
+
+ID: 500018884
+Clan Tag: T03
+Clan Name: TANKER0303
+
+ID: 500024817
+Clan Tag: T0XYC
+Clan Name: TOXYC CAT 2
+
+ID: 500055669
+Clan Tag: TBMW
+Clan Name: Team Black Mamba Warriors
+
+ID: 500063455
+Clan Tag: TBT8
+Clan Name: The Black Tank
+
+ID: 500045845
+Clan Tag: TB_FR
+Clan Name: TANKBUSTERS FRANCE
+
+ID: 500178641
+Clan Tag: TCOTR
+Clan Name: the call of the revenge
+
+ID: 500039643
+Clan Tag: TEAM_
+Clan Name: I Have A Dream
+
+ID: 500051412
+Clan Tag: TFC
+Clan Name: The French Clan
+
+ID: 500074084
+Clan Tag: TFOFS
+Clan Name: THE FURY OF SHARKS
+
+ID: 500061021
+Clan Tag: TFTK
+Clan Name: The Furious TanKists
+
+ID: 500013095
+Clan Tag: TGW
+Clan Name: The Great Warriors
+
+ID: 500142765
+Clan Tag: TK_FR
+Clan Name: Tankistes Rebelles
+
+ID: 500058561
+Clan Tag: TL-FR
+Clan Name: TankLegends
+
+ID: 500031313
+Clan Tag: TP-G
+Clan Name: Taupe gun
+
+ID: 500149202
+Clan Tag: TPH-
+Clan Name: Tuer Pour l'Honneur
+
+ID: 500173131
+Clan Tag: TPYS
+Clan Name: The Poulpy's Squad
+
+ID: 500069163
+Clan Tag: TRNR
+Clan Name: The Rock N Roll Régiment
+
+ID: 500065884
+Clan Tag: TSF_X
+Clan Name: Les Tankistes sans frontière
+
+ID: 500158711
+Clan Tag: TUCHE
+Clan Name: LesTuche.FR
+
+ID: 500067359
+Clan Tag: TURON
+Clan Name: TURON
+
+ID: 500045611
+Clan Tag: T_D_C
+Clan Name: les Tankistes Du Chaos
+
+ID: 500012761
+Clan Tag: T_N_T
+Clan Name: The Noob Team
+
+ID: 500031400
+Clan Tag: T__R
+Clan Name: Tigres_Rouges
+
+ID: 500045643
+Clan Tag: U-BMF
+Clan Name: Union Blindé Militaire Francophone
+
+ID: 500051423
+Clan Tag: U-F-T
+Clan Name: Union Française de Tankistes
+
+ID: 500056199
+Clan Tag: U-TEA
+Clan Name: _United-Team_
+
+ID: 500174509
+Clan Tag: UCAF
+Clan Name: Unité Chars d'Assaut Français
+
+ID: 500009354
+Clan Tag: UFS
+Clan Name: United French Soldiers
+
+ID: 500053583
+Clan Tag: UKN-A
+Clan Name: Unknown Army
+
+ID: 500057709
+Clan Tag: ULTB
+Clan Name: Ultimate Banana
+
+ID: 500222026
+Clan Tag: ULTI
+Clan Name: Ultimate Throwers !
+
+ID: 500180916
+Clan Tag: U_S_B
+Clan Name: Un Stylo Bic
+
+ID: 500029623
+Clan Tag: VDF
+Clan Name: VOL DE FRAG
+
+ID: 500016039
+Clan Tag: VGX
+Clan Name: VIEUX GRINCHEUX
+
+ID: 500142168
+Clan Tag: VL-FR
+Clan Name: Vieux Loups Français
+
+ID: 500073221
+Clan Tag: VLAIN
+Clan Name: LES VILAINS
+
+ID: 500193111
+Clan Tag: VNISH
+Clan Name: V a n i s h
+
+ID: 500056768
+Clan Tag: VNOM
+Clan Name: Inject The Venom
+
+ID: 500068226
+Clan Tag: W-T-P
+Clan Name: WoT The Phoques
+
+ID: 500173552
+Clan Tag: W0RTH
+Clan Name: Semper Fidelis!
+
+ID: 500047067
+Clan Tag: W1NE
+Clan Name: On boira du lait quand les vaches mangeront du raisin
+
+ID: 500075418
+Clan Tag: WARFU
+Clan Name: Warsong Fury
+
+ID: 500020258
+Clan Tag: WATTS
+Clan Name: wattclan
+
+ID: 500018384
+Clan Tag: WFT
+Clan Name: White Fire Team
+
+ID: 500024401
+Clan Tag: WH-E
+Clan Name: What Else
+
+ID: 500051651
+Clan Tag: WH-EA
+Clan Name: LES WHITE EAGLES
+
+ID: 500148616
+Clan Tag: WHIMA
+Clan Name: WHITE-MAMBA
+
+ID: 500176306
+Clan Tag: WISP
+Clan Name: Unreal as a will-o'-the-wisp
+
+ID: 500005597
+Clan Tag: WLF
+Clan Name: Wolf-s
+
+ID: 500071826
+Clan Tag: WLY
+Clan Name: we love youaaaa
+
+ID: 500153208
+Clan Tag: WOMS
+Clan Name: Wot Of Music
+
+ID: 500159347
+Clan Tag: WONKA
+Clan Name: Willy Wonka Official
+
+ID: 500074615
+Clan Tag: WOTIG
+Clan Name: Warriors on tiger
+
+ID: 500023717
+Clan Tag: WWAD
+Clan Name: We Will All Die !!!
+
+ID: 500143851
+Clan Tag: WYVRN
+Clan Name: NEVER SURRENDER !
+
+ID: 500141650
+Clan Tag: W___N
+Clan Name: Why_Not
+
+ID: 500063385
+Clan Tag: XTGRX
+Clan Name: The Ghost Rider
+
+ID: 500180572
+Clan Tag: Y-_-Y
+Clan Name: LES T1T4NS
+
+ID: 500213849
+Clan Tag: YODY
+Clan Name: YODARMY
+
+ID: 500173140
+Clan Tag: ZAR0X
+Clan Name: ZAR0X SquaD
+
+ID: 500159775
+Clan Tag: ZAROX
+Clan Name: ZaRoX SquaD
+
+ID: 500066643
+Clan Tag: ZENIT
+Clan Name: Zénith
+
+ID: 500007029
+Clan Tag: ZORGY
+Clan Name: La Dolphin Squad
+
+ID: 500026717
+Clan Tag: ZTT
+Clan Name: =Zone-Tribale=
+
+ID: 500135230
+Clan Tag: ZUT
+Clan Name: Clan Français
+
+ID: 500197228
+Clan Tag: _ADN
+Clan Name: Alliance Du Nord
+
+ID: 500068286
+Clan Tag: _AEF_
+Clan Name: A-E-F international_FR
+
+ID: 500181488
+Clan Tag: _BFR_
+Clan Name: Brigade-Française-Révolutionnaire
+
+ID: 500201198
+Clan Tag: _CEF_
+Clan Name: Corps Expéditionnaire Francophone
+
+ID: 500239273
+Clan Tag: _DIB_
+Clan Name: Déchets Inertes Batiment
+
+ID: 500035734
+Clan Tag: _DN4_
+Clan Name: _ Dark Negative 4ntiSocial _
+
+ID: 500021052
+Clan Tag: _DNA_
+Clan Name: Dark Negative AntiSocial
+
+ID: 500136477
+Clan Tag: _FGD_
+Clan Name: French Ghost Division
+
+ID: 500058750
+Clan Tag: _FTB_
+Clan Name: -Feel The Boss-
+
+ID: 500073097
+Clan Tag: _LDG_
+Clan Name: Les Dieux de la Guerre
+
+ID: 500025598
+Clan Tag: _LTN_
+Clan Name: Les Templiers Noirs
+
+ID: 500061795
+Clan Tag: _L_L_
+Clan Name: La Ligue
+
+ID: 500026057
+Clan Tag: _MC__
+Clan Name: Monte Cristo
+
+ID: 500025010
+Clan Tag: _NSC_
+Clan Name: Noobs Spécial Compagny
+
+ID: 500072492
+Clan Tag: _PAF_
+Clan Name: Les potes au feu
+
+ID: 500181356
+Clan Tag: _PTS
+Clan Name: PATRIOTES
+
+ID: 500168259
+Clan Tag: _R4M_
+Clan Name: Recrue de l'Académie Militaire
+
+ID: 500167518
+Clan Tag: _RFH_
+Clan Name: Reborn From Hell
+
+ID: 500142928
+Clan Tag: _TFS_
+Clan Name: The Flying Scouts
+
+ID: 500166949
+Clan Tag: _TLW
+Clan Name: The Lone Wolf
+
+ID: 500033003
+Clan Tag: _UNI
+Clan Name: United Nations International
+
+ID: 500187558
+Clan Tag: _V7_
+Clan Name: V7_Is_Back
+
+ID: 500216345
+Clan Tag: _VNR_
+Clan Name: NO PEN NO RAGE
+
+ID: 500034569
+Clan Tag: -JPW-
+Clan Name: FR
+
+ID: 500267107
+Clan Tag: 9LDD
+Clan Name: La 9 ème Légion Des Dragons
+
+ID: 500048902
+Clan Tag: -50-
+Clan Name: TANKUL
+
+ID: 500049727
+Clan Tag: -CSR-
+Clan Name: CLAN SPECIAL RUSH LECOMBATIF
+
+ID: 500160095
+Clan Tag: -CTU-
+Clan Name: Cobra Tank Unit
+
+ID: 500010092
+Clan Tag: -FTS-
+Clan Name: French Tigers
+
+ID: 500187018
+Clan Tag: -GENT
+Clan Name: GENTLEMAN'S
+
+ID: 500054481
+Clan Tag: -ISD-
+Clan Name: -Iron Shield Division-
+
+ID: 500221625
+Clan Tag: -L5D-
+Clan Name: Les Scorpions du Désert
+
+ID: 500193311
+Clan Tag: -LBD-
+Clan Name: Les Blindés Déglingués
+
+ID: 500167592
+Clan Tag: -MAR-
+Clan Name: Leclerc Division Blindée
+
+ID: 500030165
+Clan Tag: -RCC-
+Clan Name: 503 ème Régiment de Chars de Combat
+
+ID: 500023415
+Clan Tag: 00X00
+Clan Name: 502 eme FFI
+
+ID: 500052520
+Clan Tag: 1REC
+Clan Name: 1er REC
+
+ID: 500149377
+Clan Tag: 2GAUL
+Clan Name: Les Seigneur de la Guerre
+
+ID: 500022767
+Clan Tag: 2GF
+Clan Name: Les Grandes Gueules Françaises
+
+ID: 500063376
+Clan Tag: 3RDF
+Clan Name: 3ème Régiment de Dragons de France
+
+ID: 500069754
+Clan Tag: 3_RD
+Clan Name: 3 ème Régiment de Dragons
+
+ID: 500071880
+Clan Tag: 5ERD
+Clan Name: Le 5e régiment de dragons
+
+ID: 500062790
+Clan Tag: 6-4-2
+Clan Name: Brigade Blindées Motorisées
+
+ID: 500035033
+Clan Tag: 6-BLB
+Clan Name: 6e Brigade Légère Blindée Française
+
+ID: 500029346
+Clan Tag: A-F-T
+Clan Name: association francaise des tankistes
+
+ID: 500008205
+Clan Tag: A-T
+Clan Name: Army-Terror
+
+ID: 500017178
+Clan Tag: ABC
+Clan Name: Arme blindée Cavalerie
+
+ID: 500071757
+Clan Tag: ACDC-
+Clan Name: [ACDC-34] Assaut. Courage. Destruction. Combat
+
+ID: 500145263
+Clan Tag: AK_SD
+Clan Name: AnnoracK SquaD
+
+ID: 500180090
+Clan Tag: APER0
+Clan Name: Armée de Purs Engins Roulants Onduleux
+
+ID: 500073076
+Clan Tag: ARAC
+Clan Name: arachnide
+
+ID: 500180388
+Clan Tag: ARC-
+Clan Name: Arctic Wolves
+
+ID: 500190672
+Clan Tag: AT-FE
+Clan Name: Attaquants de fer français
+
+ID: 500159090
+Clan Tag: ATX37
+Clan Name: Agence Tours X
+
+ID: 500188154
+Clan Tag: AWFR
+Clan Name: ALLIANCE WOT FR
+
+ID: 500173343
+Clan Tag: B0OB5
+Clan Name: Bande 0bstinément Optimiste Bougrement 5ympathique
+
+ID: 500029750
+Clan Tag: CL-1
+Clan Name: Les chars légendaire
+
+ID: 500055783
+Clan Tag: COLT
+Clan Name: CoolTeam
+
+ID: 500135070
+Clan Tag: COUQ
+Clan Name: LaMarmaille
+
+ID: 500183619
+Clan Tag: CR0A
+Clan Name: CORBAC
+
+ID: 500068040
+Clan Tag: D-B-A
+Clan Name: La Division Blindée des As
+
+ID: 500189061
+Clan Tag: D-GS
+Clan Name: Dragoon Guards
+
+ID: 500204407
+Clan Tag: D7C
+Clan Name: Les Dieux du 7ème Ciel
+
+ID: 500058997
+Clan Tag: DODUS
+Clan Name: Fédération des volailles en colères
+
+ID: 500182034
+Clan Tag: DR-TE
+Clan Name: La-DreamTeam
+
+ID: 500068156
+Clan Tag: E-NS
+Clan Name: Entre_Nous
+
+ID: 500157501
+Clan Tag: E-O-S
+Clan Name: Elite Of Soldiers
+
+ID: 500023820
+Clan Tag: EGZ
+Clan Name: Extrem Gamer Z
+
+ID: 500055509
+Clan Tag: ENDS
+Clan Name: FR1ENDS
+
+ID: 500010660
+Clan Tag: ENF
+Clan Name: Escadron Noir Français
+
+ID: 500071679
+Clan Tag: F-A-B
+Clan Name: Faction Armée Blindée
+
+ID: 500191178
+Clan Tag: F-FT
+Clan Name: Fédération Française Des Tankistes
+
+ID: 500161730
+Clan Tag: FAST_
+Clan Name: Les Résistant
+
+ID: 500035272
+Clan Tag: FAS_A
+Clan Name: French Armored Squad Academy
+
+ID: 500018351
+Clan Tag: FBF
+Clan Name: Front des Bretons Fou
+
+ID: 500056885
+Clan Tag: FCM
+Clan Name: Fédération des Blindées Français
+
+ID: 500157478
+Clan Tag: FD2F
+Clan Name: Frère D'arme 2 France
+
+ID: 500010184
+Clan Tag: FFC
+Clan Name: Force Française Cooperation
+
+ID: 500070762
+Clan Tag: FFDC
+Clan Name: Fédération Francaise Des Chars
+
+ID: 500155229
+Clan Tag: FIRE1
+Clan Name: Fire-one
+
+ID: 500002762
+Clan Tag: FLING
+Clan Name: Tontons Flingueurs
+
+ID: 500065769
+Clan Tag: FOXYS
+Clan Name: Frenchie Foxys
+
+ID: 500040149
+Clan Tag: FPZ
+Clan Name: Flying Panzers
+
+ID: 500032830
+Clan Tag: FRA-C
+Clan Name: Français Régiment Armée - Char
+
+ID: 500136748
+Clan Tag: FRDOG
+Clan Name: FRDOG
+
+ID: 500026040
+Clan Tag: FRW0T
+Clan Name: Français de world of tanks
+
+ID: 500047829
+Clan Tag: G-H-Q
+Clan Name: the death croques
+
+ID: 500069402
+Clan Tag: GENIE
+Clan Name: We are Genies in Tanks ... Watch out ...!!
+
+ID: 500170067
+Clan Tag: GIBF
+Clan Name: Groupe d'Intervention Blindé Français
+
+ID: 500030459
+Clan Tag: GIFF
+Clan Name: groupe intervention force française
+
+ID: 500157469
+Clan Tag: GRIFF
+Clan Name: GRIFFONS
+
+ID: 500065862
+Clan Tag: HYENE
+Clan Name: Les Chars Rognards
+
+ID: 500164254
+Clan Tag: IDORI
+Clan Name: IDORI
+
+ID: 500037465
+Clan Tag: I_G_O
+Clan Name: Insurgency-Offensive-Fr
+
+ID: 500065083
+Clan Tag: L-C-T
+Clan Name: Les Chevaliers Tankistes
+
+ID: 500159588
+Clan Tag: L-GT
+Clan Name: Les GROSTUBES
+
+ID: 500188905
+Clan Tag: L-S-V
+Clan Name: Les Sans Visages
+
+ID: 500017729
+Clan Tag: LADBF
+Clan Name: La Division Blindée Française
+
+ID: 500232037
+Clan Tag: LBDP
+Clan Name: Le Bataillon du Phoenix
+
+ID: 500051306
+Clan Tag: LBE
+Clan Name: Légion Blindée d'Elite
+
+ID: 500218547
+Clan Tag: LCDF1
+Clan Name: Le cercle de feu
+
+ID: 500065825
+Clan Tag: LCTM
+Clan Name: les choco tanks milka
+
+ID: 500148982
+Clan Tag: LDDLM
+Clan Name: LES DIVISION DE LA MORT
+
+ID: 500189527
+Clan Tag: LEGS_
+Clan Name: ... Les égarés ...
+
+ID: 500055682
+Clan Tag: LERN
+Clan Name: L'excellence Région Nord
+
+ID: 500147410
+Clan Tag: LFDLC
+Clan Name: Les Freres De La Cote
+
+ID: 500066723
+Clan Tag: LFFL
+Clan Name: La Force Française Libre
+
+ID: 500019139
+Clan Tag: LIB
+Clan Name: LIBERTA
+
+ID: 500153782
+Clan Tag: LRDV
+Clan Name: La Rage De Vaincre
+
+ID: 500198867
+Clan Tag: LRTA
+Clan Name: Les-Rapaces-Taga
+
+ID: 500155592
+Clan Tag: LSDA1
+Clan Name: LES SURVIVANTS DE L'ANKOU
+
+ID: 500075921
+Clan Tag: LTD-M
+Clan Name: La taverne des mercenaire
+
+ID: 500136626
+Clan Tag: LTI
+Clan Name: Les Tankistes Inconnus
+
+ID: 500190009
+Clan Tag: LTIE
+Clan Name: les tigres enragés
+
+ID: 500025561
+Clan Tag: M-O-F
+Clan Name: metal on fire
+
+ID: 500028812
+Clan Tag: MFD
+Clan Name: Motorised French Division
+
+ID: 500074015
+Clan Tag: MIGAM
+Clan Name: mister gamer
+
+ID: 500204632
+Clan Tag: M_AT
+Clan Name: Masters de l'Army Terror
+
+ID: 500148919
+Clan Tag: N0RG
+Clan Name: No Regrets
+
+ID: 500052662
+Clan Tag: NBFR
+Clan Name: NAPOLÉON BONAPARTE
+
+ID: 500159979
+Clan Tag: NERZH
+Clan Name: breizh atao
+
+ID: 500012392
+Clan Tag: P-A
+Clan Name: Phoenix Angels
+
+ID: 500027810
+Clan Tag: PGDLP
+Clan Name: les 20 gardien de la paix
+
+ID: 500062001
+Clan Tag: RASW
+Clan Name: Rush And Stealth
+
+ID: 500072798
+Clan Tag: RNG__
+Clan Name: LES RENEGATS
+
+ID: 500162943
+Clan Tag: S-2F
+Clan Name: Smile For Fun
+
+ID: 500038630
+Clan Tag: SD-FR
+Clan Name: Les Supers Dupont
+
+ID: 500144501
+Clan Tag: SP-FR
+Clan Name: SPARTACUS
+
+ID: 500179118
+Clan Tag: STLTK
+Clan Name: STEEL TRACKER
+
+ID: 500075181
+Clan Tag: SWIP3
+Clan Name: La Releve
+
+ID: 500055227
+Clan Tag: S_Q_D
+Clan Name: _SuicideSquad_
+
+ID: 500075914
+Clan Tag: TFDFR
+Clan Name: The French Devil's
+
+ID: 500067665
+Clan Tag: TKP
+Clan Name: Tankiste Prédator
+
+ID: 500069219
+Clan Tag: TOXYC
+Clan Name: TOXYC CAT
+
+ID: 500166399
+Clan Tag: TR9
+Clan Name: { TEAM ROCKET }
+
+ID: 500185838
+Clan Tag: TUBAE
+Clan Name: TheTankTrumpet
+
+ID: 500070120
+Clan Tag: TUSK
+Clan Name: Les MORSES
+
+ID: 500197528
+Clan Tag: TXAFN
+Clan Name: T10 Are For Noobs
+
+ID: 500161162
+Clan Tag: UFFS
+Clan Name: Unicum French Furious Snipers
+
+ID: 500055209
+Clan Tag: UT-FR
+Clan Name: Ultimate Team Française
+
+ID: 500031667
+Clan Tag: VAE-V
+Clan Name: Vae Victis
+
+ID: 500058806
+Clan Tag: VTSC
+Clan Name: Véhicules Tractés Sur Chenilles
+
+ID: 500064475
+Clan Tag: VV-FR
+Clan Name: Vae Victis FR
+
+ID: 500135102
+Clan Tag: WFOX
+Clan Name: Les WarFox
+
+ID: 500045720
+Clan Tag: WSFR
+Clan Name: WarriorsSheeps {FR}
+
+ID: 500050063
+Clan Tag: YAUTE
+Clan Name: La Yaute
+
+ID: 500022008
+Clan Tag: _FC_
+Clan Name: Freres de combat
+
+ID: 500136693
+Clan Tag: _KENS
+Clan Name: Les re-survivants de l'Enfer
+
+ID: 500055817
+Clan Tag: _LTV_
+Clan Name: Les Tankistes Vosgiens
+
+ID: 500160664
+Clan Tag: _LVGF
+Clan Name: La Vieille Garde Française
+
+ID: 500067848
+Clan Tag: _TDT_
+Clan Name: The Dark Triad
+
+ID: 500040041
+Clan Tag: 1DBFR
+Clan Name: 1er division de véhicule blindé française
+
+ID: 500275972
+Clan Tag: 501DB
+Clan Name: 501é Division de Blindé
+
+ID: 500184980
+Clan Tag: APRAW
+Clan Name: AP-RAW
+
+ID: 500148798
+Clan Tag: BS-FR
+Clan Name: -| Baguette Squad |- [FR]
+
+ID: 500211252
+Clan Tag: DR4CO
+Clan Name: Dragons Rageux 4ème Compagnie
+
+ID: 500309715
+Clan Tag: GAAAZ
+Clan Name: JOE BAR
+
+ID: 500256083
+Clan Tag: OGX
+Clan Name: ★ On The Galaxy ★
+
+ID: 500282197
+Clan Tag: PAC-A
+Clan Name: Provence Alpes Cote d'Armure
+
+ID: 500263835
+Clan Tag: ROANS
+Clan Name: ROAXONS
+
+ID: 500210226
+Clan Tag: SHTFR
+Clan Name: SHOOTS
+
+ID: 500000379
+Clan Tag: -DPX-
+Clan Name: La Division Phoenix
+
+ID: 500016487
+Clan Tag: -FBW-
+Clan Name: Franco/Belge-WOT
+
+ID: 500029821
+Clan Tag: -FRD-
+Clan Name: La Division Française
+
+ID: 500196157
+Clan Tag: -IJN-
+Clan Name: SAKURA EMPIRE
+
+ID: 500173392
+Clan Tag: -L-BH
+Clan Name: La bonne humeur
+
+ID: 500190693
+Clan Tag: -LML-
+Clan Name: La Manche Libre
+
+ID: 500061337
+Clan Tag: -LTG-
+Clan Name: La Tribu des Gaulois
+
+ID: 500066080
+Clan Tag: -WOB
+Clan Name: World Of Beuveries
+
+ID: 500017800
+Clan Tag: 02DTC
+Clan Name: Dans Ta Chenille
+
+ID: 500019578
+Clan Tag: 10RD
+Clan Name: 10 ème Régiment de Dragons
+
+ID: 500072333
+Clan Tag: 13DB
+Clan Name: 13eme division blinde
+
+ID: 500071201
+Clan Tag: 1DCG
+Clan Name: 1ère Division Des Chiens de Guerres
+
+ID: 500216883
+Clan Tag: 1RCAF
+Clan Name: 1er Régiment des Combattants d'Assaut Fançais
+
+ID: 500161748
+Clan Tag: 1RFB
+Clan Name: 1er Régiment français de baguette tradition
+
+ID: 500046165
+Clan Tag: 1_RDB
+Clan Name: 1° Régiment des Dragons Blindés
+
+ID: 500058498
+Clan Tag: 2DBF
+Clan Name: 2éme division blindé francaise
+
+ID: 500193101
+Clan Tag: 2EDBL
+Clan Name: la 2e division blinder de leclerc
+
+ID: 500072871
+Clan Tag: 301UE
+Clan Name: 301ème Unité d' Elite
+
+ID: 500180728
+Clan Tag: 54RBF
+Clan Name: 54ème Régiment de Blindés Français
+
+ID: 500134986
+Clan Tag: 59-87
+Clan Name: les traqueurs
+
+ID: 500002957
+Clan Tag: 7CIE
+Clan Name: 7 COMPAGNIE Fr
+
+ID: 500180435
+Clan Tag: ASTRX
+Clan Name: ASTERIX
+
+ID: 500184550
+Clan Tag: ATRE
+Clan Name: Les Atréides
+
+ID: 500010560
+Clan Tag: B-D-P
+Clan Name: La Bande De Potes
+
+ID: 500027487
+Clan Tag: B-UP
+Clan Name: BLOWN-UP
+
+ID: 500029145
+Clan Tag: BC-L
+Clan Name: Lycée BC Liberté
+
+ID: 500004992
+Clan Tag: BCIE
+Clan Name: BadCompany
+
+ID: 500044476
+Clan Tag: BG_DT
+Clan Name: Les brigades du tigre
+
+ID: 500056099
+Clan Tag: BIMA
+Clan Name: Bellator In Machina
+
+ID: 500163843
+Clan Tag: BISOU
+Clan Name: Bisou
+
+ID: 500153616
+Clan Tag: BKFR
+Clan Name: BlitzKriegFR
+
+ID: 500049508
+Clan Tag: BRY
+Clan Name: le Berry
+
+ID: 500002125
+Clan Tag: BTK
+Clan Name: Born To Kill
+
+ID: 500188130
+Clan Tag: B_O_V
+Clan Name: Birth Of Victory
+
+ID: 500189367
+Clan Tag: C-DAM
+Clan Name: Chez-Dami
+
+ID: 500161544
+Clan Tag: C58_
+Clan Name: C58_
+
+ID: 500183660
+Clan Tag: CCI-F
+Clan Name: Les Compagnons Cuirassiers Immortels
+
+ID: 500158538
+Clan Tag: CESAR
+Clan Name: La IXème Légion
+
+ID: 500034579
+Clan Tag: CFCC
+Clan Name: Compagnie Francophone De Chars De Combat
+
+ID: 500186264
+Clan Tag: CPAFO
+Clan Name: compagnie paramilitaire fortuite
+
+ID: 500185420
+Clan Tag: CRDLT
+Clan Name: CORDIALEMENT
+
+ID: 500026752
+Clan Tag: CVR
+Clan Name: Clan des vieux raleurs
+
+ID: 500186032
+Clan Tag: DBFRL
+Clan Name: Division Blindée Française Libre
+
+ID: 500028710
+Clan Tag: DDAY2
+Clan Name: D-Day Company 2
+
+ID: 500051102
+Clan Tag: DI2
+Clan Name: Dirty 12
+
+ID: 500056544
+Clan Tag: DI4AS
+Clan Name: Division des quatre As, As de trèfle
+
+ID: 500068823
+Clan Tag: DSWL
+Clan Name: DARK SHADOW LEGION
+
+ID: 500064520
+Clan Tag: DVT
+Clan Name: Divergent
+
+ID: 500009703
+Clan Tag: D_DAY
+Clan Name: D-Day Company
+
+ID: 500070651
+Clan Tag: D_I_L
+Clan Name: La Division Infernale " LASALLE " ( Clan LVGF )
+
+ID: 500024758
+Clan Tag: D_L_
+Clan Name: DARK__LEGION
+
+ID: 500013424
+Clan Tag: EL_ON
+Clan Name: Elsass_niniouff68
+
+ID: 500164577
+Clan Tag: EXC4L
+Clan Name: Les Chevaliers de Kaamelott
+
+ID: 500180661
+Clan Tag: E_V
+Clan Name: Elite Valkyrie Esport
+
+ID: 500036701
+Clan Tag: F-RIP
+Clan Name: Repose en Paix
+
+ID: 500156576
+Clan Tag: FBU
+Clan Name: Federation des Blindés Unis
+
+ID: 500053447
+Clan Tag: FC76
+Clan Name: Fight_Club
+
+ID: 500007703
+Clan Tag: FFL
+Clan Name: Forces Françaises Libres
+
+ID: 500056189
+Clan Tag: FKISS
+Clan Name: Escadron French Kiss
+
+ID: 500033973
+Clan Tag: FR19
+Clan Name: Brothers in Wars
+
+ID: 500006562
+Clan Tag: FRROG
+Clan Name: Frenchie Raiders Rolling Over ground
+
+ID: 500186195
+Clan Tag: FRS54
+Clan Name: Les Solitaires
+
+ID: 500010215
+Clan Tag: HFR
+Clan Name: HFR
+
+ID: 500028552
+Clan Tag: IN-VI
+Clan Name: --INVICTUS--
+
+ID: 500055251
+Clan Tag: INDE
+Clan Name: Les Indépendants
+
+ID: 500190730
+Clan Tag: I___I
+Clan Name: [I___I]
+
+ID: 500010472
+Clan Tag: KDX
+Clan Name: KDX
+
+ID: 500028440
+Clan Tag: KLOTT
+Clan Name: Les résistants de Kaamelott
+
+ID: 500194382
+Clan Tag: KOYOT
+Clan Name: Les Coyotes
+
+ID: 500143792
+Clan Tag: L-0-W
+Clan Name: Legion of the Wolves
+
+ID: 500150629
+Clan Tag: L-FR
+Clan Name: Les Fraternels
+
+ID: 500135685
+Clan Tag: L-PFR
+Clan Name: LES PAPIS FLINGUEURS
+
+ID: 500006968
+Clan Tag: L1DCF
+Clan Name: La 1° Division Des Chars Francophones.
+
+ID: 500187828
+Clan Tag: LAEG
+Clan Name: L'Armée Éclatante Galvanisée
+
+ID: 500193283
+Clan Tag: LBA-1
+Clan Name: Le Bataillon Ailé
+
+ID: 500064041
+Clan Tag: LBRFR
+Clan Name: LES_BARBARES
+
+ID: 500066324
+Clan Tag: LCD-A
+Clan Name: Les Copains d' Abord
+
+ID: 500160590
+Clan Tag: LCDLL
+Clan Name: Les Combattants de la liberté
+
+ID: 500179430
+Clan Tag: LCHP
+Clan Name: Les Helvetes Poilus
+
+ID: 500055922
+Clan Tag: LCKC
+Clan Name: Les canons cassés
+
+ID: 500018278
+Clan Tag: LCTF
+Clan Name: Les Cobras Team French
+
+ID: 500030741
+Clan Tag: LDHP
+Clan Name: légion des damnés, honneur et patrie
+
+ID: 500031033
+Clan Tag: LE-FR
+Clan Name: La Légion de l'Extrême France !
+
+ID: 500158796
+Clan Tag: LE-MA
+Clan Name: Légion MAGMA
+
+ID: 500066062
+Clan Tag: LEDP
+Clan Name: Les éléphants de porcelaine
+
+ID: 500177052
+Clan Tag: LFDL
+Clan Name: Les Fer De Lance Fr
+
+ID: 500054962
+Clan Tag: LFDTS
+Clan Name: Les Fossoyeurs De Tanks
+
+ID: 500152774
+Clan Tag: LLDS
+Clan Name: La Légion Des Survivants
+
+ID: 500196367
+Clan Tag: LSBKS
+Clan Name: Les_Brankignoles
+
+ID: 500191129
+Clan Tag: LTDLG
+Clan Name: les tankiste de la galaxie
+
+ID: 500173695
+Clan Tag: LTFX
+Clan Name: les toufailloux
+
+ID: 500076453
+Clan Tag: LTTFS
+Clan Name: Les.TonTons.Flingueurs
+
+ID: 500160222
+Clan Tag: LVGB
+Clan Name: Les Vieilles Gueules de Bois
+
+ID: 500013131
+Clan Tag: L_M_F
+Clan Name: Les Maraudeurs francais
+
+ID: 500160584
+Clan Tag: L_R_T
+Clan Name: Les Requins Tankistes
+
+ID: 500034487
+Clan Tag: L_S_F
+Clan Name: Les Survivants Français
+
+ID: 500192963
+Clan Tag: L_TF
+Clan Name: Les TankistesFrancais
+
+ID: 500165022
+Clan Tag: NAABS
+Clan Name: Nul ?, Oui, mais nous on assume.
+
+ID: 500177595
+Clan Tag: NEXT-
+Clan Name: -NEXT-
+
+ID: 500158570
+Clan Tag: NHOE
+Clan Name: sauron
+
+ID: 500075458
+Clan Tag: NMDS
+Clan Name: ~NoMaDs~
+
+ID: 500165500
+Clan Tag: NOML
+Clan Name: No Man's Land
+
+ID: 500006074
+Clan Tag: NVS
+Clan Name: NOVA SNAIL
+
+ID: 500159547
+Clan Tag: OBFB
+Clan Name: Old Boys
+
+ID: 500192917
+Clan Tag: OPNEW
+Clan Name: Old Players New Times
+
+ID: 500067593
+Clan Tag: PAPY
+Clan Name: les-papy's
+
+ID: 500138220
+Clan Tag: PIGG
+Clan Name: strOnk krOnk
+
+ID: 500209232
+Clan Tag: PTBC
+Clan Name: Prepa To Bad Company
+
+ID: 500136964
+Clan Tag: ROGNE
+Clan Name: La charogne française
+
+ID: 500144117
+Clan Tag: RTXFB
+Clan Name: Régiment Tankiste eXpert Franco-Belge
+
+ID: 500149065
+Clan Tag: SCHT
+Clan Name: Les Schtroumpfs
+
+ID: 500154978
+Clan Tag: SHIC
+Clan Name: Sharing is Caring
+
+ID: 500065864
+Clan Tag: SK-FR
+Clan Name: SkullZfrance School
+
+ID: 500070081
+Clan Tag: SKALP
+Clan Name: SKALP
+
+ID: 500174387
+Clan Tag: SOHR
+Clan Name: SONS OF HELL REBORN
+
+ID: 500067389
+Clan Tag: SPFR
+Clan Name: SEMPER FI FR
+
+ID: 500015403
+Clan Tag: SWFT
+Clan Name: Silent Wolf French Team
+
+ID: 500029811
+Clan Tag: T-K-O
+Clan Name: TanKistadOrs
+
+ID: 500189351
+Clan Tag: TLT_
+Clan Name: Tuez Les Tous
+
+ID: 500050771
+Clan Tag: TR0D
+Clan Name: Team Ressurection Of Destroyers
+
+ID: 500074102
+Clan Tag: ULUS
+Clan Name: ULUS
+
+ID: 500027008
+Clan Tag: URM0M
+Clan Name: urmomlovme.
+
+ID: 500160132
+Clan Tag: VALKI
+Clan Name: Valkyrias
+
+ID: 500177015
+Clan Tag: VULSF
+Clan Name: VulsFire
+
+ID: 500163519
+Clan Tag: WOOFT
+Clan Name: World of Time
+
+ID: 500199809
+Clan Tag: WORD1
+Clan Name: L WORLDS
+
+ID: 500158383
+Clan Tag: _CDC_
+Clan Name: Les Canons des Corsaires
+
+ID: 500163146
+Clan Tag: _FAF_
+Clan Name: Frères d'arme FR
+
+ID: 500047240
+Clan Tag: _L-F_
+Clan Name: L'équipe francophone
+
+ID: 500193895
+Clan Tag: _LDD_
+Clan Name: La Division Damoclès
+
+ID: 500137697
+Clan Tag: _NRV_
+Clan Name: NRV
+
+ID: 500189580
+Clan Tag: _OOVM
+Clan Name: Objectif on va vous mickey
+
+ID: 500195594
+Clan Tag: _PTS2
+Clan Name: PATRIOTES²
+
+ID: 500135236
+Clan Tag: -BDF-
+Clan Name: Battaboom Defense Forces 161 Squad
+
+ID: 500180349
+Clan Tag: -BZH
+Clan Name: La Meute De Loup [-BZH]
+
+ID: 500024514
+Clan Tag: -CRC-
+Clan Name: Les Charognards Couillus
+
+ID: 500068065
+Clan Tag: -E-C-
+Clan Name: EASY COMPANY - 101e aéroportée
+
+ID: 500018851
+Clan Tag: -FK
+Clan Name: French Kiss
+
+ID: 500151327
+Clan Tag: -FMJ-
+Clan Name: France Muti Joueurs
+
+ID: 500069287
+Clan Tag: -LDT-
+Clan Name: L'armée Des Tanks
+
+ID: 500178397
+Clan Tag: -LTW-
+Clan Name: LIVE TO WIN
+
+ID: 500019693
+Clan Tag: -LVS-
+Clan Name: Les Vrais Méchants
+
+ID: 500198662
+Clan Tag: -MPP
+Clan Name: MEME PAS PEUR
+
+ID: 500046824
+Clan Tag: -PFS
+Clan Name: Penetration For Sure
+
+ID: 500008920
+Clan Tag: -RAC-
+Clan Name: /!\ French Black Wolves /!\
+
+ID: 500149021
+Clan Tag: -RFB-
+Clan Name: Régiment Francophone Blindés
+
+ID: 500044881
+Clan Tag: -WX-
+Clan Name: the hopes
+
+ID: 500212318
+Clan Tag: 0NLY4
+Clan Name: Tier IV ONLY
+
+ID: 500146637
+Clan Tag: 1-ECC
+Clan Name: 1er Escadron de Chasseurs de Chars
+
+ID: 500214812
+Clan Tag: 101-E
+Clan Name: La 101ᵉ Airborne
+
+ID: 500141409
+Clan Tag: 11RCH
+Clan Name: 11 Régiment de chasseur
+
+ID: 500053852
+Clan Tag: 12SAL
+Clan Name: Les 12 Salopards
+
+ID: 500158597
+Clan Tag: 13RCB
+Clan Name: 13e Régiment de Cavalerie Blindée
+
+ID: 500154928
+Clan Tag: 1DOGE
+Clan Name: World Of Doge Memes
+
+ID: 500011142
+Clan Tag: 1LCC
+Clan Name: Les Cinglés de la Chenille
+
+ID: 500012411
+Clan Tag: 2277
+Clan Name: Division des Chars Francais
+
+ID: 500064278
+Clan Tag: 25ECC
+Clan Name: 25° Escadron de Char de Combat
+
+ID: 500180850
+Clan Tag: 2BR
+Clan Name: 2ème brigade blindée
+
+ID: 500159507
+Clan Tag: 4DCC
+Clan Name: 4ème Division de Cuirassée Connétable
+
+ID: 500197801
+Clan Tag: 501-L
+Clan Name: 501-Legion
+
+ID: 500137423
+Clan Tag: 50314
+Clan Name: 503rcc
+
+ID: 500164887
+Clan Tag: 5AMX
+Clan Name: 5e Division AMX
+
+ID: 500020554
+Clan Tag: 5RD
+Clan Name: 5eme régiment des dragons
+
+ID: 500053928
+Clan Tag: 6-PDW
+Clan Name: 6. Panzerdivision walhalla
+
+ID: 500181398
+Clan Tag: 756
+Clan Name: FRANCE60
+
+ID: 500059025
+Clan Tag: 7CTC
+Clan Name: La 7éme compagnie du train au combat
+
+ID: 500191773
+Clan Tag: 7EC59
+Clan Name: La 7eme Compagnie 59
+
+ID: 500188818
+Clan Tag: 7PX
+Clan Name: My don't camp and Frensh playeur
+
+ID: 500052912
+Clan Tag: 9RCA
+Clan Name: 9e Régiment de chasseurs d'afrique
+
+ID: 500208151
+Clan Tag: A-Y-D
+Clan Name: Arty yolo division
+
+ID: 500163755
+Clan Tag: AC_DC
+Clan Name: Malcolm is not dead
+
+ID: 500008990
+Clan Tag: AKFIG
+Clan Name: Les Acariatres de la French Imperial Guard
+
+ID: 500174032
+Clan Tag: ALSIA
+Clan Name: Alesia-anime
+
+ID: 500019787
+Clan Tag: AMXDB
+Clan Name: FORMATION des AMXFR Division Blindée
+
+ID: 500164287
+Clan Tag: APCRS
+Clan Name: LES OBUS PERFORANTS
+
+ID: 500185510
+Clan Tag: ARTI-
+Clan Name: ARTI SQUAD
+
+ID: 500066349
+Clan Tag: ATHIA
+Clan Name: ALETHEIA
+
+ID: 500192638
+Clan Tag: A_ACE
+Clan Name: Association Ace United
+
+ID: 500006190
+Clan Tag: BAC
+Clan Name: Binouz'Ours Anti-Chars
+
+ID: 500148189
+Clan Tag: BAM
+Clan Name: B.A.M
+
+ID: 500164302
+Clan Tag: BB_B
+Clan Name: Burn Baby Burn
+
+ID: 500212877
+Clan Tag: BEHUN
+Clan Name: .BeHun.
+
+ID: 500160964
+Clan Tag: BHIND
+Clan Name: Benny Hill Is Not Dead !
+
+ID: 500146487
+Clan Tag: BIGOR
+Clan Name: Brigade Bigor
+
+ID: 500177114
+Clan Tag: BOGSE
+Clan Name: Belgo-suisse
+
+ID: 500187075
+Clan Tag: BR4NK
+Clan Name: Les Branquignoles
+
+ID: 500197247
+Clan Tag: BROTH
+Clan Name: Brother
+
+ID: 500056446
+Clan Tag: BZ-FS
+Clan Name: Breizh Fighting Spirit
+
+ID: 500135654
+Clan Tag: BZH-E
+Clan Name: Breizh Empire
+
+ID: 500039593
+Clan Tag: BZH22
+Clan Name: _BZH 22_Celtic Armor Clan
+
+ID: 500184954
+Clan Tag: B_0_B
+Clan Name: Band_0f_Brothers
+
+ID: 500183716
+Clan Tag: B_6
+Clan Name: Taillefer
+
+ID: 500177737
+Clan Tag: CABO
+Clan Name: Canes Borealis
+
+ID: 500191794
+Clan Tag: CAN-E
+Clan Name: Canard Esport
+
+ID: 500209699
+Clan Tag: CCM4F
+Clan Name: ChaosCorp
+
+ID: 500183345
+Clan Tag: CDCI
+Clan Name: Cuirassiers de chocs impérial
+
+ID: 500057138
+Clan Tag: CFP
+Clan Name: clan french power
+
+ID: 500066358
+Clan Tag: CHAFE
+Clan Name: Les Amis du Chaffee
+
+ID: 500013777
+Clan Tag: CHAR
+Clan Name: Caratériel Hargneux Amical Raleur
+
+ID: 500044694
+Clan Tag: CHTI
+Clan Name: 1er DB CH'TIMI 59/62
+
+ID: 500178545
+Clan Tag: CIMEN
+Clan Name: LaCimentière
+
+ID: 500202316
+Clan Tag: CMOIS
+Clan Name: World of Michel
+
+ID: 500158573
+Clan Tag: CPIR
+Clan Name: Compagnie Pithivier
+
+ID: 500190281
+Clan Tag: CR-M
+Clan Name: CrewMaggle
+
+ID: 500192576
+Clan Tag: CROQU
+Clan Name: Team Croquette
+
+ID: 500015416
+Clan Tag: CROWS
+Clan Name: A Murder of Crows
+
+ID: 500070707
+Clan Tag: D-BZ
+Clan Name: Division du Big Zoo
+
+ID: 500172703
+Clan Tag: DATA
+Clan Name: DATABASE
+
+ID: 500221000
+Clan Tag: DATAC
+Clan Name: Danish Tank Commanders
+
+ID: 500176095
+Clan Tag: DAYZ
+Clan Name: Résistance
+
+ID: 500068567
+Clan Tag: DBALF
+Clan Name: Division Blindée et Artillerie Lourde de France
+
+ID: 500202205
+Clan Tag: DF-B
+Clan Name: Die Deutsch-Französische-Brigade
+
+ID: 500030085
+Clan Tag: DF-FR
+Clan Name: Delta Force Francaise
+
+ID: 500186075
+Clan Tag: DFDT
+Clan Name: Direction Française Des Tanks
+
+ID: 500200611
+Clan Tag: DKGHT
+Clan Name: Darknight
+
+ID: 500063556
+Clan Tag: DS-C
+Clan Name: Dumb Steeled Cheeses
+
+ID: 500159295
+Clan Tag: DVNG
+Clan Name: Division Ghost-FR
+
+ID: 500146615
+Clan Tag: E45T
+Clan Name: The Eastern Regiment V4V front
+
+ID: 500054917
+Clan Tag: EFOR
+Clan Name: EuroForce
+
+ID: 500192659
+Clan Tag: EFRP
+Clan Name: 96ème Escadron Français de Percé
+
+ID: 500030098
+Clan Tag: EFTAC
+Clan Name: Ecole de Formation aux Techniques Anti-Chars
+
+ID: 500184264
+Clan Tag: EGSF
+Clan Name: Empire General Staff Force
+
+ID: 500046420
+Clan Tag: EN3R
+Clan Name: ROTATIONS D'ENER
+
+ID: 500156090
+Clan Tag: EXIL3
+Clan Name: EXIL3 - French Baguettes
+
+ID: 500064981
+Clan Tag: F-B-A
+Clan Name: Francais Bonne Ambiance
+
+ID: 500049502
+Clan Tag: F-W-S
+Clan Name: French White Skulls
+
+ID: 500006824
+Clan Tag: FAFE
+Clan Name: Forces Armées FrancophonEs
+
+ID: 500034139
+Clan Tag: FAMAS
+Clan Name: les FAMeux ASsocié
+
+ID: 500174070
+Clan Tag: FBCA
+Clan Name: Force Blindée Champ-Ardennaise
+
+ID: 500137446
+Clan Tag: FD-EA
+Clan Name: French Division of the Electric Angels
+
+ID: 500029549
+Clan Tag: FDMT
+Clan Name: French Deglingos Master Team
+
+ID: 500158884
+Clan Tag: FENEC
+Clan Name: FENNEC FOX-TEAM
+
+ID: 500219866
+Clan Tag: FEUJ
+Clan Name: MouquetteGang
+
+ID: 500211275
+Clan Tag: FFTIR
+Clan Name: tireur de france
+
+ID: 500047252
+Clan Tag: FFWOT
+Clan Name: Fédération Française de World Of Tanks
+
+ID: 500180828
+Clan Tag: FORGE
+Clan Name: FORGE
+
+ID: 500013971
+Clan Tag: FR-O-
+Clan Name: FRos
+
+ID: 500199579
+Clan Tag: FRCA
+Clan Name: French Army Clan
+
+ID: 500064885
+Clan Tag: FRENF
+Clan Name: French Division
+
+ID: 500170163
+Clan Tag: FRLTC
+Clan Name: La team covenanter
+
+ID: 500000359
+Clan Tag: FROG
+Clan Name: FrogSwarm
+
+ID: 500046630
+Clan Tag: FTF
+Clan Name: Fear The French
+
+ID: 500136093
+Clan Tag: GADFR
+Clan Name: les Gwen ar Du
+
+ID: 500135937
+Clan Tag: GROIN
+Clan Name: raloufland
+
+ID: 500138663
+Clan Tag: GUP17
+Clan Name: Girls_und_Panzer_2017
+
+ID: 500006475
+Clan Tag: ICE
+Clan Name: ICE
+
+ID: 500222504
+Clan Tag: IMPR
+Clan Name: IMPERATORS OF TANKS
+
+ID: 500011718
+Clan Tag: IRWT
+Clan Name: In rush we thrust
+
+ID: 500182688
+Clan Tag: JUGE
+Clan Name: FR - RUS - ENG
+
+ID: 500214535
+Clan Tag: K4OS
+Clan Name: K4OS
+
+ID: 500195657
+Clan Tag: KBZ
+Clan Name: Les kebtzer
+
+ID: 500178352
+Clan Tag: KIEV
+Clan Name: Kiev Ukraine
+
+ID: 500063494
+Clan Tag: KMKFR
+Clan Name: Kamikaze France
+
+ID: 500188191
+Clan Tag: KOMA-
+Clan Name: KOMA
+
+ID: 500198801
+Clan Tag: L-CDM
+Clan Name: La Cour Des Miracles
+
+ID: 500216516
+Clan Tag: L-FT
+Clan Name: Les Francophones Tankistes
+
+ID: 500193010
+Clan Tag: L-MGC
+Clan Name: Lins-Multy-Games-community
+
+ID: 500191786
+Clan Tag: L-SPK
+Clan Name: Les Spartakistes
+
+ID: 500151883
+Clan Tag: L7CIE
+Clan Name: La 7éme Compagnie
+
+ID: 500181700
+Clan Tag: LADA
+Clan Name: Profi Wot osok
+
+ID: 500049079
+Clan Tag: LADLL
+Clan Name: Les Aigles de la liberté
+
+ID: 500176805
+Clan Tag: LATKS
+Clan Name: les amis tankiste
+
+ID: 500206806
+Clan Tag: LBDDF
+Clan Name: La Bande Des Déjantés Foldingues
+
+ID: 500024750
+Clan Tag: LBU
+Clan Name: La Légion Blindée Unifiée
+
+ID: 500220793
+Clan Tag: LBV
+Clan Name: Les Baguettes Volantes
+
+ID: 500028637
+Clan Tag: LCDF
+Clan Name: Les Camarades De Front
+
+ID: 500014075
+Clan Tag: LCG
+Clan Name: Les cochons de guerre
+
+ID: 500159286
+Clan Tag: LCJF
+Clan Name: le clan des joueurs français
+
+ID: 500187254
+Clan Tag: LDIDM
+Clan Name: LES LIONS DES ILES DES MASCAREINGES
+
+ID: 500207788
+Clan Tag: LDSTS
+Clan Name: Les deserteurs
+
+ID: 500197202
+Clan Tag: LESBA
+Clan Name: Les Bruleurs d'Acier
+
+ID: 500156049
+Clan Tag: LG-FR
+Clan Name: Légion Française
+
+ID: 500189773
+Clan Tag: LPZC
+Clan Name: Les Panzer Confinés
+
+ID: 500211992
+Clan Tag: LRBL
+Clan Name: Le rebelle
+
+ID: 500174679
+Clan Tag: LSDL6
+Clan Name: les scorpion de la victoire 6
+
+ID: 500067765
+Clan Tag: LTDFR
+Clan Name: Les Tourélos Déjantés
+
+ID: 500190005
+Clan Tag: LTDV
+Clan Name: la tribu des vieux
+
+ID: 500073483
+Clan Tag: LVTFR
+Clan Name: Les vétérans Tankistes
+
+ID: 500214285
+Clan Tag: M-ES
+Clan Name: Millenium Clan
+
+ID: 500179922
+Clan Tag: MAC
+Clan Name: PAR SAINT MICHEL
+
+ID: 500180455
+Clan Tag: MMIBX
+Clan Name: MMI BORDEAUX
+
+ID: 500216396
+Clan Tag: N7SR2
+Clan Name: Normandy SR2
+
+ID: 500145554
+Clan Tag: NDBFR
+Clan Name: Noir de Bigorre
+
+ID: 500138588
+Clan Tag: NEED-
+Clan Name: Need a Target
+
+ID: 500044732
+Clan Tag: NEMS
+Clan Name: Ilyapasdesushi
+
+ID: 500008210
+Clan Tag: NGC
+Clan Name: ngc404
+
+ID: 500031156
+Clan Tag: NOOT
+Clan Name: NoobTroop
+
+ID: 500216800
+Clan Tag: NTL
+Clan Name: Les Tankiste Nuls
+
+ID: 500163962
+Clan Tag: N_E
+Clan Name: Neverending
+
+ID: 500195384
+Clan Tag: OMEGA
+Clan Name: To the Last Man
+
+ID: 500064210
+Clan Tag: OP-N
+Clan Name: Opreration's noobs
+
+ID: 500215552
+Clan Tag: OTARI
+Clan Name: ESCOUADE OTARIE
+
+ID: 500164862
+Clan Tag: P-A-X
+Clan Name: Ad Augusta Per Angusta
+
+ID: 500194333
+Clan Tag: P-CF
+Clan Name: Puissance des Cookie Français
+
+ID: 500067310
+Clan Tag: PAPI5
+Clan Name: Hospice
+
+ID: 500056273
+Clan Tag: PESOS
+Clan Name: PESOS
+
+ID: 500209208
+Clan Tag: PNEU
+Clan Name: Les Pneus
+
+ID: 500181137
+Clan Tag: PZ77
+Clan Name: Coupvray
+
+ID: 500182000
+Clan Tag: PZFRA
+Clan Name: La Marche
+
+ID: 500151918
+Clan Tag: R-D-V
+Clan Name: The red devils.
+
+ID: 500008190
+Clan Tag: RAID
+Clan Name: French familly
+
+ID: 500154688
+Clan Tag: RB-FM
+Clan Name: Régiment blindé de fusiliers-marins
+
+ID: 500136411
+Clan Tag: RCFFR
+Clan Name: Royal Cookie Force Française
+
+ID: 500211519
+Clan Tag: RIC
+Clan Name: RAGE IN COMING
+
+ID: 500199611
+Clan Tag: RTBM
+Clan Name: Les Prépaïstes
+
+ID: 500071733
+Clan Tag: R_S_L
+Clan Name: Radley Walters
+
+ID: 500063075
+Clan Tag: S6S
+Clan Name: Sixième-Sens
+
+ID: 500174970
+Clan Tag: SAGE
+Clan Name: le loup sage
+
+ID: 500193068
+Clan Tag: SSBLU
+Clan Name: SongSungBlue
+
+ID: 500062428
+Clan Tag: SWOW
+Clan Name: shadows whisper of war
+
+ID: 500020397
+Clan Tag: T1ME_
+Clan Name: Time is running
+
+ID: 500203721
+Clan Tag: T26E4
+Clan Name: Les Supers Pershing
+
+ID: 500168125
+Clan Tag: TACOS
+Clan Name: PIÑATA
+
+ID: 500181610
+Clan Tag: TAKFR
+Clan Name: Tankistes Français
+
+ID: 500034771
+Clan Tag: THORS
+Clan Name: Justice_FR
+
+ID: 500198834
+Clan Tag: TNTFR
+Clan Name: Tanks Français
+
+ID: 500161288
+Clan Tag: TREAD
+Clan Name: Just TREAD !!!
+
+ID: 500198187
+Clan Tag: TR_IT
+Clan Name: _TRITON_
+
+ID: 500061344
+Clan Tag: TSGA
+Clan Name: The Second Ghost Army
+
+ID: 500278071
+Clan Tag: V4V
+Clan Name: Vonu4iyVeter
+
+ID: 500136004
+Clan Tag: VC_FR
+Clan Name: Vieilles Canailles
+
+ID: 500187797
+Clan Tag: VDLV
+Clan Name: Vieux de la Vieille
+
+ID: 500178021
+Clan Tag: VKG97
+Clan Name: VIKING974
+
+ID: 500218950
+Clan Tag: WOLV
+Clan Name: WolVeio
+
+ID: 500200345
+Clan Tag: WRC_
+Clan Name: Team WRC
+
+ID: 500190948
+Clan Tag: WSQ
+Clan Name: WOLOLO SQUAD
+
+ID: 500031601
+Clan Tag: WTYD_
+Clan Name: WELCOME TO YOUR DEATH
+
+ID: 500026772
+Clan Tag: WW3
+Clan Name: World War 3 Tankers
+
+ID: 500209733
+Clan Tag: YIYA
+Clan Name: Yin et Yang
+
+ID: 500193747
+Clan Tag: Z0B
+Clan Name: Les Décapsuleurs Enragés
+
+ID: 500193377
+Clan Tag: ZOB-
+Clan Name: Cochonou
+
+ID: 500181084
+Clan Tag: _SGS_
+Clan Name: Steel_Games_Studio
+
