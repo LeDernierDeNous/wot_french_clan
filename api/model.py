@@ -62,7 +62,7 @@ class ClanSQL(Base):
     id: int = Column(Integer, primary_key=True, index=True)
     clan_tag: str = Column(String, unique=True, index=True)
     clan_name: str = Column(String)
-    country: str = Column(String, default=Country.UNKNOWN.value)  # Store as string, using the enum value for default
+    country: str = Column(String, default=Country.UNKNOWN.value)
 
     def __repr__(self):
         return f"<ClanSQL(id={self.id}, clan_tag={self.clan_tag}, clan_name={self.clan_name}, country={self.country})>"
@@ -78,11 +78,18 @@ class Clan(BaseModel):
     clan_tag: str
     clan_name: str
     country: Country
+    
     class Config:
         from_attributes = True
     
     @field_validator('country')
     def check_country(cls, value):
-        if value not in Country.__members__.values():
+        # Normalize the value by trimming
+        normalized_value = value.strip()
+
+        # Ensure the normalized value matches the Enum case exactly
+        if normalized_value not in Country.__members__:
             raise ValueError(f"Invalid country value: {value}")
-        return value
+
+        # Return the corresponding Enum value if valid
+        return Country[normalized_value]

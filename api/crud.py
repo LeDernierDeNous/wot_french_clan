@@ -131,9 +131,19 @@ def get_clans_by_country(db: Session, country: str):
         logger.error(f"Invalid country: {country}")
         raise ValueError(f"Invalid country: {country}")
 
-    # Query using the SQLAlchemy model (ClanSQL)
-    clans_db = db.query(ClanSQL).filter(ClanSQL.country == country_enum).all()
+    try:
+        # Query using the SQLAlchemy model (ClanSQL)
+        clans_db = db.query(ClanSQL).filter(ClanSQL.country == country_enum.value.upper()).all()
 
-    # Convert the SQLAlchemy results to Pydantic models
-    logger.info(f"Successfully retrieved {len(clans_db)} clans for country: {country_normalized}")
-    return [Clan.model_validate(clan) for clan in clans_db]
+        if clans_db:
+            logger.info(f"Successfully retrieved {len(clans_db)} clans for country: {country_normalized}")
+        else:
+            logger.info(f"No clans found for country: {country_normalized}")
+
+        # Convert the SQLAlchemy results to Pydantic models
+        return [Clan.model_validate(clan) for clan in clans_db]
+    
+    except Exception as e:
+        logger.error(f"Error while fetching clans for country {country_normalized}: {str(e)}")
+        raise
+
