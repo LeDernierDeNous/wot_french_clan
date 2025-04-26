@@ -1,5 +1,5 @@
 import json
-from api.config import FULL_JSON_PATH, FRENCH_JSON_PATH, SEED_DATA_PATH
+from utils.config import FULL_JSON_PATH, FRENCH_JSON_PATH, SEED_DATA_PATH
 
 def generate_seed(full_json_path, french_json_path, output_path):
     # Load full clan dump

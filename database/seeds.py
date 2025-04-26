@@ -1,6 +1,6 @@
 # database/seeds.py
 from database.database import save_clans, SessionLocal
-from api.config import SEED_DATA_PATH
+from utils.config import SEED_DATA_PATH
 import json
 import os
 from api.model import ClanSQL

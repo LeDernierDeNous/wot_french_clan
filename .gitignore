@@ -1,6 +1,3 @@
-extract_clan_FR/*.txt
-extract_clan_FR/*.json
-extract_clan_FR/*.log
 venv/
 __pycache__/
 *.pyc
@@ -14,3 +11,4 @@ __pycache__/
 *.db-trace
 *.db-lock
 *.db-trace
+*.log
