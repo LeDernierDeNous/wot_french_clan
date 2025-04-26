@@ -2,6 +2,10 @@ from typing import List
 from sqlalchemy.orm import Session
 from api.model import ClanSQL, Country, Clan
 from sqlalchemy.exc import IntegrityError
+from utils.logging import setup_logger
+
+# Set up the logger for this file/module
+logger = setup_logger(__name__)
 
 def create_clan(db: Session, clan_id: int, clan_tag: str, clan_name: str, country: str):
     """
@@ -11,6 +15,7 @@ def create_clan(db: Session, clan_id: int, clan_tag: str, clan_name: str, countr
     try:
         country_enum = Country[country.upper()]
     except KeyError:
+        logger.error(f"Invalid country provided: {country}")
         raise ValueError(f"Invalid country: {country}")
 
     # Instantiate SQLAlchemy model (ClanSQL) instead of Pydantic model (Clan)
@@ -25,12 +30,15 @@ def create_clan(db: Session, clan_id: int, clan_tag: str, clan_name: str, countr
         db.add(new_clan)
         db.commit()
         db.refresh(new_clan)
+        logger.info(f"Successfully created clan: {clan_name} with ID: {clan_id}")
         return Clan.model_validate(new_clan)  # Use model_validate instead of from_orm
     except IntegrityError:
         db.rollback()
+        logger.error(f"Clan with ID {clan_id} already exists.")
         raise ValueError(f"Clan with ID {clan_id} already exists.")
     except Exception as e:
         db.rollback()
+        logger.error(f"An error occurred while creating the clan: {e}")
         raise ValueError(f"An error occurred while creating the clan: {e}")
 
 def read_clan(db: Session, clan_id: int):
@@ -39,7 +47,10 @@ def read_clan(db: Session, clan_id: int):
     """
     clan = db.query(ClanSQL).filter(ClanSQL.id == clan_id).first()  # Use ClanSQL for database query
     if clan:
+        logger.info(f"Successfully retrieved clan: {clan_id}")
         return Clan.model_validate(clan)  # Use model_validate instead of from_orm
+    else:
+        logger.warning(f"Clan with ID {clan_id} not found.")
     return None
 
 def update_clan(db: Session, clan_id: int, clan_tag: str = None, clan_name: str = None, country: str = None):
@@ -49,21 +60,27 @@ def update_clan(db: Session, clan_id: int, clan_tag: str = None, clan_name: str 
     clan = db.query(ClanSQL).filter(ClanSQL.id == clan_id).first()  # Use ClanSQL for database query
     
     if not clan:
+        logger.warning(f"Clan with ID {clan_id} does not exist.")
         raise ValueError(f"Clan with ID {clan_id} does not exist.")
     
     if clan_tag:
+        logger.info(f"Updating clan tag to {clan_tag} for clan ID {clan_id}")
         clan.clan_tag = clan_tag
     if clan_name:
+        logger.info(f"Updating clan name to {clan_name} for clan ID {clan_id}")
         clan.clan_name = clan_name
     if country:
         try:
             country_enum = Country[country.upper()]
+            logger.info(f"Updating country to {country_enum} for clan ID {clan_id}")
             clan.country = country_enum
         except KeyError:
+            logger.error(f"Invalid country: {country} for clan ID {clan_id}")
             raise ValueError(f"Invalid country: {country}")
 
     db.commit()
     db.refresh(clan)
+    logger.info(f"Successfully updated clan ID {clan_id}")
     return Clan.model_validate(clan)  # Use model_validate instead of from_orm
 
 def delete_clan(db: Session, clan_id: int):
@@ -73,10 +90,12 @@ def delete_clan(db: Session, clan_id: int):
     clan = db.query(ClanSQL).filter(ClanSQL.id == clan_id).first()  # Use ClanSQL for database query
 
     if not clan:
+        logger.warning(f"Clan with ID {clan_id} does not exist.")
         raise ValueError(f"Clan with ID {clan_id} does not exist.")
     
     db.delete(clan)
     db.commit()
+    logger.info(f"Successfully deleted clan ID {clan_id}")
     return {"message": f"Clan with ID {clan_id} has been deleted."}
 
 def get_all_clans(db: Session) -> List[ClanSQL]:
@@ -90,9 +109,11 @@ def get_all_clans(db: Session) -> List[ClanSQL]:
         A list of ClanSQL objects.
     """
     try:
-        return db.query(ClanSQL).all()
+        clans = db.query(ClanSQL).all()
+        logger.info(f"Successfully retrieved {len(clans)} clans.")
+        return clans
     except Exception as e:
-        logging.error(f"Error fetching clans: {e}")
+        logger.error(f"Error fetching clans: {e}")
         raise
 
 def get_clans_by_country(db: Session, country: str):
@@ -105,11 +126,14 @@ def get_clans_by_country(db: Session, country: str):
     try:
         # Match the country to the Enum (after normalization)
         country_enum = Country[country_normalized]
+        logger.info(f"Fetching clans for country: {country_normalized}")
     except KeyError:
+        logger.error(f"Invalid country: {country}")
         raise ValueError(f"Invalid country: {country}")
 
     # Query using the SQLAlchemy model (ClanSQL)
     clans_db = db.query(ClanSQL).filter(ClanSQL.country == country_enum).all()
 
     # Convert the SQLAlchemy results to Pydantic models
+    logger.info(f"Successfully retrieved {len(clans_db)} clans for country: {country_normalized}")
     return [Clan.model_validate(clan) for clan in clans_db]
