@@ -1,29 +1,34 @@
 import os
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Depends
 from importer_exporter.importer import update_clan_data
 from importer_exporter.exporter import export_clans_to_csv, export_clans_to_txt
 from scraper.scraper import get_languages
-from config import CSV_EXPORT_PATH, TXT_EXPORT_PATH
-from crud import read_clan, get_clans_by_country  # CRUD functions for fetching data
-from database.database import SessionLocal
+from api.config import CSV_EXPORT_PATH, TXT_EXPORT_PATH
+from api.model import Clan, Country
+from api.crud import read_clan, get_clans_by_country
+from database.database import get_db
 from sqlalchemy.orm import Session
+from typing import List
 
 router = APIRouter()
 
-@router.get("/clans", summary="Get all clans")
-def get_all_clans(db: Session = SessionLocal()):
+@router.get("/clans", response_model=list[Clan], summary="Get all clans")
+def get_all_clans(db: Session = Depends(get_db)):
     """
-    Returns all clans stored in the database.
+    Returns all clans stored in the database, grouped by country.
     """
     try:
-        clans = get_clans_by_country(db)
-        return clans
+        all_clans = []
+        for country in Country:
+            clans = get_clans_by_country(db, country=country.value)
+            all_clans.extend(clans)  # Add the clans from this country to the list
+        return all_clans
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
 
-@router.get("/clans/{clan_id}", summary="Get a specific clan by clan_id")
-def get_clan(clan_id: int, db: Session = SessionLocal()):
+@router.get("/clans/{clan_id}", response_model=Clan, summary="Get a specific clan by clan_id")
+def get_clan(clan_id: int, db: Session = Depends(get_db)):
     """
     Returns details for a specific clan.
     """
@@ -85,13 +90,24 @@ async def get_clan_languages(clan_id: int):
         raise HTTPException(status_code=500, detail=str(e))
 
 
-@router.get("/clans/country/{country_name}", summary="Get clans by country")
-def get_clans_by_country_endpoint(country_name: str, db: Session = SessionLocal()):
+@router.get("/clans/country/{country_name}", response_model=list[Clan], summary="Get clans by country")
+def get_clans_by_country_endpoint(country_name: str, db: Session = Depends(get_db)):
     """
     Get all clans from a specific country.
     """
     try:
         clans = get_clans_by_country(db, country_name)
         return clans
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@router.get("/countries", response_model=List[str], summary="Get all countries")
+def get_all_countries():
+    """
+    Returns a list of all available countries.
+    """
+    try:
+        countries = [country.name for country in Country]  # Adjust this line based on how Country is defined
+        return countries
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

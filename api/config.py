@@ -9,7 +9,8 @@ BASE_URL = (
 CSV_EXPORT_PATH = "data/export/clans.csv"
 TXT_EXPORT_PATH = "data/export/clans.txt"
 
-DATABASE_URL = "sqlite:///data/database/clans.db"
+SQLALCHEMY_DATABASE_URL = "sqlite:///./database.db"
+DATABASE_URL = "sqlite:///./data/database/clans.db"
 
 FULL_JSON_PATH = 'data/raw/Full_version_french_clan_list.json'
 FRENCH_JSON_PATH = 'data/raw/Safe_version_french_clan_list.json'

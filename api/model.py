@@ -1,8 +1,11 @@
 # api/models.py
-
 from sqlalchemy import Column, Integer, String
-from database.database import Base
+from sqlalchemy.ext.declarative import declarative_base
+from pydantic import BaseModel
+from enum import Enum
 
+# Create a Base class for SQLAlchemy models
+Base = declarative_base()
 class Country(str, Enum):
     ALBANIA = "Albania"
     ANDORRA = "Andorra"
@@ -51,11 +54,22 @@ class Country(str, Enum):
     VATICAN_CITY = "Vatican City"
     INTERNATIONAL = "International"  # Special case
     UNKNOWN = "Unknown"
-
-class Clan(Base):
+class ClanSQL(Base):
     __tablename__ = 'clans'
-    
-    id = Column(Integer, primary_key=True, index=True)
-    clan_tag = Column(String, unique=True, index=True)
-    clan_name = Column(String)
+
+    id: int = Column(Integer, primary_key=True, index=True)
+    clan_tag: str = Column(String, unique=True, index=True)
+    clan_name: str = Column(String)
     country: Country = Column(String, default=Country.UNKNOWN)
+
+    def __repr__(self):
+        return f"<ClanSQL(id={self.id}, clan_tag={self.clan_tag}, clan_name={self.clan_name}, country={self.country})>"
+
+# Pydantic base model for Clan
+class Clan(BaseModel):
+    id: int
+    clan_tag: str
+    clan_name: str
+    country: Country
+    class Config:
+        from_attributes = True
