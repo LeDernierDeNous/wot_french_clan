@@ -1,7 +1,9 @@
-import json
-from database.database import save_clans  # Your database system expects a dict
-import os
+# database/seeds.py
+from database.database import save_clans, SessionLocal
 from api.config import SEED_DATA_PATH
+import json
+import os
+from api.model import ClanSQL
 
 def load_seed_data(seed_file_path):
     """
@@ -17,24 +19,24 @@ def seed_database():
     """
     Seeds the database with the clans from the seed file.
     """
+    db = SessionLocal()  # Create a database session
+
     try:
         seed_clans = load_seed_data(SEED_DATA_PATH)
-        
-        # Transform into a dict where keys are clan_id (str) for saving
-        clans_dict = {
-            str(clan['clan_id']): {
-                "clan_tag": clan['clan_tag'],
-                "clan_name": clan['clan_name'],
-                "country": clan.get('country', "Unknown")
-            }
-            for clan in seed_clans
-        }
 
-        save_clans(clans_dict)
-        print(f"✅ Successfully seeded database with {len(clans_dict)} clans.")
+        for clan_data in seed_clans:
+            clan = ClanSQL(
+                id=clan_data['clan_id'],
+                clan_tag=clan_data['clan_tag'],
+                clan_name=clan_data['clan_name'],
+                country=clan_data.get('country', "Unknown")
+            )
+            save_clans(db, clan)  # Pass the db session to save_clans()
+
+        print(f"✅ Successfully seeded database with {len(seed_clans)} clans.")
 
     except Exception as e:
         print(f"❌ Error while seeding the database: {str(e)}")
 
-if __name__ == "__main__":
-    seed_database()
+    finally:
+        db.close()  # Ensure the db session is closed after seeding

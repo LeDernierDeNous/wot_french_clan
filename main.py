@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from api.routes import router
-from database.database import init_db  # Adjust based on your database module location
+from database.database import init_db
 import uvicorn
 from contextlib import asynccontextmanager
 
