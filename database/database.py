@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, Session
 from api.model import Base, Clan, ClanSQL
-from api.config import SQLALCHEMY_DATABASE_URL
+from utils.config import SQLALCHEMY_DATABASE_URL
 
 # Create the engine and session
 engine = create_engine(SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False})

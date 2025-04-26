@@ -1,7 +1,7 @@
 # api/models.py
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
-from pydantic import BaseModel
+from pydantic import BaseModel, field_validator
 from enum import Enum
 
 # Create a Base class for SQLAlchemy models
@@ -54,16 +54,23 @@ class Country(str, Enum):
     VATICAN_CITY = "Vatican City"
     INTERNATIONAL = "International"  # Special case
     UNKNOWN = "Unknown"
+
+# Define your ClanSQL model
 class ClanSQL(Base):
     __tablename__ = 'clans'
 
     id: int = Column(Integer, primary_key=True, index=True)
     clan_tag: str = Column(String, unique=True, index=True)
     clan_name: str = Column(String)
-    country: Country = Column(String, default=Country.UNKNOWN)
+    country: str = Column(String, default=Country.UNKNOWN.value)  # Store as string, using the enum value for default
 
     def __repr__(self):
         return f"<ClanSQL(id={self.id}, clan_tag={self.clan_tag}, clan_name={self.clan_name}, country={self.country})>"
+
+    # Add a method to return the country as an enum instance for easier access
+    @property
+    def country_enum(self):
+        return Country[self.country] if self.country in Country.__members__ else Country.UNKNOWN
 
 # Pydantic base model for Clan
 class Clan(BaseModel):
@@ -73,3 +80,9 @@ class Clan(BaseModel):
     country: Country
     class Config:
         from_attributes = True
+    
+    @field_validator('country')
+    def check_country(cls, value):
+        if value not in Country.__members__.values():
+            raise ValueError(f"Invalid country value: {value}")
+        return value

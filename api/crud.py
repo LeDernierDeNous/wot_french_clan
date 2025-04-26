@@ -1,3 +1,4 @@
+from typing import List
 from sqlalchemy.orm import Session
 from api.model import ClanSQL, Country, Clan
 from sqlalchemy.exc import IntegrityError
@@ -77,6 +78,22 @@ def delete_clan(db: Session, clan_id: int):
     db.delete(clan)
     db.commit()
     return {"message": f"Clan with ID {clan_id} has been deleted."}
+
+def get_all_clans(db: Session) -> List[ClanSQL]:
+    """
+    Get all clans from the database.
+
+    Args:
+        db: Database session to query the database.
+
+    Returns:
+        A list of ClanSQL objects.
+    """
+    try:
+        return db.query(ClanSQL).all()
+    except Exception as e:
+        logging.error(f"Error fetching clans: {e}")
+        raise
 
 def get_clans_by_country(db: Session, country: str):
     """
