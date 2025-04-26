@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+playwright
+asyncio
+requests
+sqlalchemy
