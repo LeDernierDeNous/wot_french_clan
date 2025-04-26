@@ -28,7 +28,7 @@ def setup_logger(name: str) -> logging.Logger:
 
     # Create a file handler to save logs to a file in the 'log' folder
     log_file_path = os.path.join('log', 'app.log')
-    file_handler = logging.FileHandler(log_file_path)
+    file_handler = logging.FileHandler(log_file_path, encoding='utf-8')  # Ensure UTF-8 encoding
     file_handler.setLevel(logging.DEBUG)  # Set the log level for the file
     file_handler.setFormatter(formatter)
 
