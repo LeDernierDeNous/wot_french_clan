@@ -5,4 +5,4 @@ asyncio
 requests
 sqlalchemy
 pydantic
-sqlite3
+python-dotenv

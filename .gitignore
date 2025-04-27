@@ -12,3 +12,4 @@ __pycache__/
 *.db-lock
 *.db-trace
 *.log
+.env
