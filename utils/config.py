@@ -1,6 +1,13 @@
-# api/config.py
+import os
+from dotenv import load_dotenv
 
-WG_API_KEY = "6267be451d158341277b1a61f3e32e97"
+# Load environment variables from .env file
+load_dotenv()
+
+WG_API_KEY = os.getenv("WG_API_KEY")
+if WG_API_KEY is None:
+    raise ValueError("WG_API_KEY not found in .env file")
+
 BASE_URL = (
     f"https://api.worldoftanks.eu/wgn/clans/list/?application_id={WG_API_KEY}"
     "&fields=clan_id%2Cname%2Ctag&game=wot&language=fr&search="
