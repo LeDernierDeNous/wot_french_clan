@@ -120,30 +120,35 @@ def get_clans_by_country(db: Session, country: str):
     """
     Get all clans from a specific country.
     """
-    # Normalize the input by replacing spaces with underscores
+    # Normalize the input by replacing spaces with underscores and uppercasing
     country_normalized = country.replace(" ", "_").upper()
     
     try:
-        # Match the country to the Enum (after normalization)
+        # Match the input to the Enum
         country_enum = Country[country_normalized]
-        logger.info(f"Fetching clans for country: {country_normalized}")
+        logger.info(f"Fetching clans for country: {country_enum.value}")
     except KeyError:
         logger.error(f"Invalid country: {country}")
         raise ValueError(f"Invalid country: {country}")
 
     try:
-        # Query using the SQLAlchemy model (ClanSQL)
+        # Query the database with the country value (in DB format: UPPER)
         clans_db = db.query(ClanSQL).filter(ClanSQL.country == country_enum.value.upper()).all()
 
         if clans_db:
-            logger.info(f"Successfully retrieved {len(clans_db)} clans for country: {country_normalized}")
+            logger.info(f"Successfully retrieved {len(clans_db)} clans for country: {country_enum.value}")
         else:
-            logger.info(f"No clans found for country: {country_normalized}")
+            logger.info(f"No clans found for country: {country_enum.value}")
 
-        # Convert the SQLAlchemy results to Pydantic models
-        return [Clan.model_validate(clan) for clan in clans_db]
-    
+        # Before validating, fix the country value to match Pydantic expectations (title-case)
+        clans_fixed = []
+        for clan in clans_db:
+            clan_dict = clan.__dict__.copy()
+            clan_dict['country'] = clan.country.title()
+            clans_fixed.append(Clan.model_validate(clan_dict))
+        
+        return clans_fixed
+
     except Exception as e:
-        logger.error(f"Error while fetching clans for country {country_normalized}: {str(e)}")
+        logger.error(f"Error while fetching clans for country {country_enum.value}: {str(e)}")
         raise
-

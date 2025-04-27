@@ -1,11 +1,11 @@
-# api/models.py
-from sqlalchemy import Column, Integer, String
-from sqlalchemy.ext.declarative import declarative_base
 from pydantic import BaseModel, field_validator
 from enum import Enum
+from sqlalchemy import Column, Integer, String
+from sqlalchemy.ext.declarative import declarative_base
 
 # Create a Base class for SQLAlchemy models
 Base = declarative_base()
+
 class Country(str, Enum):
     ALBANIA = "Albania"
     ANDORRA = "Andorra"
@@ -82,14 +82,14 @@ class Clan(BaseModel):
     class Config:
         from_attributes = True
     
-    @field_validator('country')
-    def check_country(cls, value):
-        # Normalize the value by trimming
-        normalized_value = value.strip()
+    @field_validator('country', mode="before")
+    def normalize_country(cls, v):
+        if isinstance(v, str):
+            v = v.strip().title()
+        if isinstance(v, Country):
+            return v
+        try:
+            return Country(v)
+        except ValueError:
+            raise ValueError(f"Invalid country: {v}")
 
-        # Ensure the normalized value matches the Enum case exactly
-        if normalized_value not in Country.__members__:
-            raise ValueError(f"Invalid country value: {value}")
-
-        # Return the corresponding Enum value if valid
-        return Country[normalized_value]
