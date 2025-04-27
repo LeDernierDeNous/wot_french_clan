@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.db
+*.db-journal
+*.db-trace
+*.db-lock
+*.db-trace
+*.log
+.env

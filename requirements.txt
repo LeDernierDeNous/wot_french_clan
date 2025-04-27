@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+playwright
+asyncio
+requests
+sqlalchemy
+pydantic
+python-dotenv
