@@ -1,15 +1,19 @@
+import json
 import os
 from fastapi import APIRouter, HTTPException, Depends
+import requests
 from importer_exporter.importer import update_clan_data
 from importer_exporter.exporter import export_clans_to_csv, export_clans_to_txt
 from scraper.scraper import get_languages
 from utils.config import CSV_EXPORT_PATH, TXT_EXPORT_PATH
-from api.model import Clan, Country
-from api.crud import read_clan, get_clans_by_country, get_all_clans
+from api.model import Clan, Country, ClanInsertRequest
+from api.crud import read_clan, get_clans_by_country, get_all_clans, create_clan
 from database.database import get_db
 from sqlalchemy.orm import Session
 from typing import List
 from utils.logging import setup_logger
+from utils.config import WG_API_KEY, BASE_URL
+from database.save_new_seed import export_clans_to_seed_file
 
 # Set up the logger for this file/module
 logger = setup_logger(__name__)
@@ -29,22 +33,61 @@ def get_all_clans_endpoint(db: Session = Depends(get_db)):
         logger.error(f"Error fetching all clans: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
-@router.get("/clans/{clan_id}", response_model=Clan, summary="Get a specific clan by clan_id", tags=["Clans"])
-def get_clan(clan_id: int, db: Session = Depends(get_db)):
+@router.post("/clans/insert_by_id", response_model=Clan, summary="Insert a new clan by ID", tags=["Clans"])
+def insert_new_clan_by_id(clan_data: ClanInsertRequest, db: Session = Depends(get_db)):
     """
-    Returns details for a specific clan.
+    Inserts a new clan into the database by fetching name and tag from the Wargaming API.
     """
     try:
-        clan = read_clan(db, clan_id)
-        if clan:
-            logger.info(f"Successfully retrieved clan with ID {clan_id}.")
-            return clan
-        else:
-            logger.warning(f"Clan with ID {clan_id} not found.")
-            raise HTTPException(status_code=404, detail="Clan not found")
+        # Validate and convert country
+        response = requests.get(f"{BASE_URL}{clan_data.id}")
+        response.raise_for_status()
+        wg_result = response.json()
+
+        logger.debug(f"WG API response: {json.dumps(wg_result, indent=2)}")
+
+        # Check if the clan ID exists in the response
+        wg_clan = wg_result.get("data", {}).get(str(clan_data.id))
+        if not wg_clan:
+            logger.warning(f"Clan ID {clan_data.id} not found in WG API.")
+            raise HTTPException(status_code=404, detail="Clan not found in WG API")
+
+        # Use Pydantic model to normalize/validate country
+        try:
+            clan_model = Clan(
+                id=clan_data.id,
+                clan_tag=wg_clan["tag"],
+                clan_name=wg_clan["name"],
+                country=clan_data.country
+            )
+        except ValueError as ve:
+            logger.warning(f"Validation error: {ve}")
+            raise ve
+
+        # Call DB creation
+        try:
+            return create_clan(
+                db=db,
+                clan_id=clan_model.id,
+                clan_tag=clan_model.clan_tag,
+                clan_name=clan_model.clan_name,
+                country=clan_model.country.value  # .value needed for Enum to str
+            )
+        except ValueError as ve:
+            logger.warning(f"Database error: {ve}")
+            raise ve
+
+    except HTTPException:
+        raise  # Let FastAPI handle any HTTPExceptions you raise explicitly
+    except ValueError as ve:
+        logger.warning(f"Validation error inserting clan: {ve}")
+        raise HTTPException(status_code=400, detail=str(ve))
+    except requests.HTTPError as http_err:
+        logger.error(f"WG API error: {http_err}")
+        raise HTTPException(status_code=502, detail="Failed to fetch clan from WG API")
     except Exception as e:
-        logger.error(f"Error fetching clan with ID {clan_id}: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
+        logger.error(f"Unexpected error: {e}")
+        raise HTTPException(status_code=500, detail="Internal server error")
 
 @router.post("/clans/update", summary="Update clan data", tags=["Clans"])
 def update_clans():
@@ -57,6 +100,28 @@ def update_clans():
         return {"message": "Clan data updated successfully."}
     except Exception as e:
         logger.error(f"Error updating clan data: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@router.post("/clans/insert", response_model=Clan, summary="Insert a new clan", tags=["Clans"])
+def insert_new_clan(clan_data: Clan, db: Session = Depends(get_db)):
+    """
+    Inserts a new clan into the database.
+    """
+    try:
+        clan = create_clan(
+            db=db,
+            clan_id=clan_data.id,
+            clan_tag=clan_data.clan_tag,
+            clan_name=clan_data.clan_name,
+            country=clan_data.country,
+        )
+        logger.info(f"Successfully inserted clan with ID {clan_data.id}.")
+        return clan
+    except ValueError as ve:
+        logger.warning(f"Validation error inserting clan: {ve}")
+        raise HTTPException(status_code=400, detail=str(ve))
+    except Exception as e:
+        logger.error(f"Unexpected error inserting clan: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
 @router.get("/clans/export/csv", summary="Export clans data to CSV", tags=["Export"])
@@ -123,3 +188,18 @@ def get_all_countries():
     except Exception as e:
         logger.error(f"Error retrieving countries: {e}")
         raise HTTPException(status_code=500, detail=str(e))
+
+@router.post("/clans/save_seed", summary="Export clans to a seed file", tags=["Utilities"])
+def save_seed_file():
+    """
+    Exports all current clans to a seed file with today's date.
+    """
+    try:
+        path = export_clans_to_seed_file()
+        if path:
+            return {"message": "✅ Seed file saved", "path": path}
+        else:
+            raise HTTPException(status_code=404, detail="No clans to export.")
+    except Exception as e:
+        logger.error(f"Error exporting seed: {e}")
+        raise HTTPException(status_code=500, detail="Failed to export seed file")

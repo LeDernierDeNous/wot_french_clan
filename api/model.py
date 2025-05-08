@@ -2,6 +2,7 @@ from pydantic import BaseModel, field_validator
 from enum import Enum
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
+from typing import Optional
 
 # Create a Base class for SQLAlchemy models
 Base = declarative_base()
@@ -93,3 +94,6 @@ class Clan(BaseModel):
         except ValueError:
             raise ValueError(f"Invalid country: {v}")
 
+class ClanInsertRequest(BaseModel):
+    id: int
+    country: Optional[str] = "Unknown"
