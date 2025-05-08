@@ -8,9 +8,10 @@ WG_API_KEY = os.getenv("WG_API_KEY")
 if WG_API_KEY is None:
     raise ValueError("WG_API_KEY not found in .env file")
 
+# f"https://api.worldoftanks.eu/wgn/clans/list/?application_id={WG_API_KEY}&fields=clan_id%2Cname%2Ctag&game=wot&language=fr&search="
+
 BASE_URL = (
-    f"https://api.worldoftanks.eu/wgn/clans/list/?application_id={WG_API_KEY}"
-    "&fields=clan_id%2Cname%2Ctag&game=wot&language=fr&search="
+    f"https://api.worldoftanks.eu/wgn/clans/info/?application_id={WG_API_KEY}&game=wot&language=fr&fields=clan_id%2Cname%2Ctag&clan_id="
 )
 
 CSV_EXPORT_PATH = "data/export/clans.csv"
