@@ -22,4 +22,5 @@ DATABASE_URL = "sqlite:///./data/database/clans.db"
 
 FULL_JSON_PATH = 'data/raw/Full_version_french_clan_list.json'
 FRENCH_JSON_PATH = 'data/raw/Safe_version_french_clan_list.json'
-SEED_DATA_PATH = 'data/seed/seed_data.json'
+SEED_DIR = "data/seed"
+SEED_DATA_PATH = f'{SEED_DIR}/seed_data.json'

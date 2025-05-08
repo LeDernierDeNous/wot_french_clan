@@ -13,6 +13,7 @@ from sqlalchemy.orm import Session
 from typing import List
 from utils.logging import setup_logger
 from utils.config import WG_API_KEY, BASE_URL
+from database.save_new_seed import export_clans_to_seed_file
 
 # Set up the logger for this file/module
 logger = setup_logger(__name__)
@@ -187,3 +188,18 @@ def get_all_countries():
     except Exception as e:
         logger.error(f"Error retrieving countries: {e}")
         raise HTTPException(status_code=500, detail=str(e))
+
+@router.post("/clans/save_seed", summary="Export clans to a seed file", tags=["Utilities"])
+def save_seed_file():
+    """
+    Exports all current clans to a seed file with today's date.
+    """
+    try:
+        path = export_clans_to_seed_file()
+        if path:
+            return {"message": "✅ Seed file saved", "path": path}
+        else:
+            raise HTTPException(status_code=404, detail="No clans to export.")
+    except Exception as e:
+        logger.error(f"Error exporting seed: {e}")
+        raise HTTPException(status_code=500, detail="Failed to export seed file")
